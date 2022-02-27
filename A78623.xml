@@ -1,0 +1,794 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recueil de diuerses pieces touchant l'introduction des nouveaux psaumes savior une lettre des syndics &amp; conseil de Geneve aux Etates Generaux des Provinces Unies le recit de la maniere dont cette introduction a estè faite a Geneve &amp; ailleurs. Les Responses des autres Eglises de l'Europe a la lettre circulaire de Geneve. A quoy l'on a joins deux actes principaux des synodes de France touchant les mesmes psaumes.</title>
+            <author>Cailloüé, Jean.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78623</idno>
+            <idno type="STC">Wing C207C</idno>
+            <idno type="STC">ESTC R229570</idno>
+            <idno type="EEBO-CITATION">99895461</idno>
+            <idno type="PROQUEST">99895461</idno>
+            <idno type="VID">152862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152862)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2328:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Recueil de diuerses pieces touchant l'introduction des nouveaux psaumes savior une lettre des syndics &amp; conseil de Geneve aux Etates Generaux des Provinces Unies le recit de la maniere dont cette introduction a estè faite a Geneve &amp; ailleurs. Les Responses des autres Eglises de l'Europe a la lettre circulaire de Geneve. A quoy l'on a joins deux actes principaux des synodes de France touchant les mesmes psaumes.</title>
+                  <author>Cailloüé, Jean.</author>
+               </titleStmt>
+               <extent>[12], 95, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>pour Jean Cailloüé &amp; Jacques Levi libraires François au Coing de Beauford buildings dans le Strant,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Introduction signed: J. Cailloüé.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1648-1715 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152862:1" rendition="simple:additions"/>
+            <p>Recueil de Diuerſes Pieces Touchant L'Introduction DES NOUVEAUX PSAUMES Savoir Une Lettre des Syndics &amp; Conſeil de GENEVE Aux ETATS GENERAUX des Provinces Unies <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Recit de la Maniere dont cette Intro<g ref="char:EOLhyphen"/>duction a eſté faite a Geneve &amp; Ailleurs. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reponſes des autres Egliſes de L'Eu<g ref="char:EOLhyphen"/>rope a la Lchettre Circulaire de Geneve. a quoy L'on a Joint <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ux Actes Principaux des Synodes de France Touchant les meſmes Pſaumes.</p>
+            <p>
+               <hi>A LONDRES.</hi> Pour Jean Cailloüé &amp; Jaques Levi Libraires François au Coing de Beauford Buildings dans le Strant 1700.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152862:2"/>
+            <pb facs="tcp:152862:2"/>
+            <p>L'Introduction des nouveaux Pſau<g ref="char:EOLhyphen"/>mes ſera un evenement ſi memo<g ref="char:EOLhyphen"/>rable dans les choſes de la Religion, qu'il ne ſe peut qu'on ne ſoit bien aiſe de Savoir quelle en aura été l'origine, &amp; par quels moyens on aura Surmonté la difficuté qu'ont les peuples à changer dans leurs devotions les uſages à quoi ils ſont accoutumés: On trouvera ici. 1. Deux actes des Synodes de France, ou d'autre ſont mentionés. 2. Une excellente Lettre de 11. ou 12. Miniſtres, parmi leſquels étoit Mr. Daillé le fils paſteur de l'Egliſe de Paris, &amp; quelques anciens, par la<g ref="char:EOLhyphen"/>quelle ils ſollicitent les paſteurs &amp; pro<g ref="char:EOLhyphen"/>feſſeurs de Geneve de commencer a cet établiſſement dans leurs Egliſes. 3. Le Recit de la Maniere dont ces Meſſieurs s'y ſon conduits; 4. Leur Lettre circu<g ref="char:EOLhyphen"/>laire aux Egliſes Françoiſes des divers
+<pb facs="tcp:152862:3"/> payis de l'Europe. Les réponſes des mê<g ref="char:EOLhyphen"/>mes Egliſes. 6. Enfin une Lettre de M. les Syndics &amp; conſeil de Gene<g ref="char:EOLhyphen"/>ve à M. M. les Etats generaux des Provinces unies que l'on met ici à la tête de tout acauſe de la dignité des noms qu'elle porte.</p>
+            <closer>
+               <signed>J. Cailloüé.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:152862:3"/>
+            <head>AUX ETATS GENERAUX DES PROVINCES VNIES.</head>
+            <opener>
+               <salute>Tres-Hauts &amp; Tres-Puiſſans Seigneurs,</salute>
+            </opener>
+            <p>LES Paſteurs &amp; les Profeſ<g ref="char:EOLhyphen"/>ſeurs de noſtre Egliſe &amp; de<g ref="char:EOLhyphen"/>noſtre Académie, ayant de<g ref="char:EOLhyphen"/>puis pluſieurs années conſidéré que les Pſaumes traduits en vers François au Siécle paſſé par Cl. Ma<g ref="char:EOLhyphen"/>rot
+<pb facs="tcp:152862:4"/> &amp; Theodore de Beze, contenoi<g ref="char:EOLhyphen"/>ent diverſes expreſſions hors d'uſage, &amp; meſme in-intelligibles à ceux qui les chantoient: Et ayant trou<g ref="char:EOLhyphen"/>vé qu'il eſtoit d'une abſoluë né<g ref="char:EOLhyphen"/>ceſſité pour l'édification de l'Egli<g ref="char:EOLhyphen"/>ſe, d'y apporrer des changemens, ils s'employerent à examiner avec ſoin la Verſion que feu Mr. Con<g ref="char:EOLhyphen"/>rart, perſonnage d'un mérite di<g ref="char:EOLhyphen"/>ſtingué, en avoit faite à la tres inſtante prie<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e de la plus-part des Egliſes de France pérſuadés de cette meſme néceſſité. Apres qu'on eut apporté quelques changemens à cette Traduction, &amp; que la réſolution eut eſté priſe, moyen<g ref="char:EOLhyphen"/>nant notre approbation, d'en e<g ref="char:EOLhyphen"/>ſtablir l'uſage public, nous con<g ref="char:EOLhyphen"/>ſentimes qu'elle fuſt imprimée. Nous nous apperceumes inconti<g ref="char:EOLhyphen"/>nent, TRES-HAUTS &amp; TRES-PUISSANS SEI<g ref="char:EOLhyphen"/>GNEURS, que l'on donna
+<pb facs="tcp:152862:4"/> une approbatton genérale à cet Ouvrage, &amp; que ceux qui s'ap<g ref="char:EOLhyphen"/>pliquérent à l'examiner, en furent extraordinairement ſatisfaits. De ſorte que nos Paſteurs &amp; nos Profeſſeurs nous ayant propoſé, trois ans aprés, d'introduire le chant de ces nouveaux Pſaumes dans nos Egliſes, en la place des anciens, nous y donnames volon<g ref="char:EOLhyphen"/>tiers les mains. Les deux ans qui ſe ſont écoulez depuis cette introduction, nous ont ſait faire l'agréable, expèrience, qu'il n'y en a jamais eu de plus approuvée, ni qui ait eſté ſuivie d'un plus heureux ſuccez; ces nouveaux Pſaumes ayant eſté receus &amp; chan<g ref="char:EOLhyphen"/>tez dans le Ville &amp; à la Cam<g ref="char:EOLhyphen"/>pagne, ſans déſordre ni confu<g ref="char:EOLhyphen"/>ſion, mais plutoſt avec toute l'é<g ref="char:EOLhyphen"/>dification qu'on pouvoit attendre. Et nous avons eu d'ailleurs la ſatisfaction d'apprendre que les
+<pb facs="tcp:152862:5"/> Egliſes de notre Communion, qui ſe ſont recueillies en divers Païs de l'Europe Proteſtante, infor<g ref="char:EOLhyphen"/>mées par nos ſoins de cette intro<g ref="char:EOLhyphen"/>duction, l'ont approuvée &amp; louëé.</p>
+            <p>Quoi que le principal but des Paſteurs de cette Egliſe ait eſté Pédification des Troupeaux qui leur ſont commis, &amp; l'honneur de la Religion, ſans avoir pré<g ref="char:EOLhyphen"/>tendu exiger de perſonne qu'on accepraſt les dits nouveaux Pſau<g ref="char:EOLhyphen"/>mes, &amp; voulant ſeulement propo<g ref="char:EOLhyphen"/>ſer l'exemple de ce qui s'eſt heu<g ref="char:EOLhyphen"/>reuſement exécuté: Nous avons cependant apris avec douleur que quelques Particuliers ſe donnent la licence de publier des Ecrits contre l'honneur de noſtre Egliſe, tant au ſujet de cette réviſion &amp; intro<g ref="char:EOLhyphen"/>duction des Pſaumes, que de la Verſion de la Bible, bien que celle ci, depuis notre bienheureuſe Réfor<g ref="char:EOLhyphen"/>mation,
+<pb facs="tcp:152862:5"/> ait toujours eſté receue dans les Egliſes de la Langue Françoiſe qui ſont dans les Etats de VOS HAUTES PUIS<g ref="char:EOLhyphen"/>SANCES: Et ce qui nous a le plus ſurpris, ça eſté d'appren<g ref="char:EOLhyphen"/>dre qu'aux ſollicitations de ces per<g ref="char:EOLhyphen"/>ſonnes mal-intentionées, le Syno<g ref="char:EOLhyphen"/>dé Wallon aſſemblé au mois de <hi>Septembre</hi> dernier à Roterdam, ſe ſoit porté à écrire diverſes Let<g ref="char:EOLhyphen"/>tres deſavantageuſes à noſtre Egli<g ref="char:EOLhyphen"/>ſes; &amp; que l'on ſe donne enco<g ref="char:EOLhyphen"/>re de grands mouvemens qui ten<g ref="char:EOLhyphen"/>dent à rêndre ſa conduite odieuſe. Encore que ſon honneur nous ſoit fort à coeur, nous prions V. H. P. d'eſtre perſuadeés que ce qui nous touche le plus, eſt l'appréhenſion du mauvais effet que cette ma<g ref="char:EOLhyphen"/>niere d'agir pourroit produire, par rapport aux avantages que les En<g ref="char:EOLhyphen"/>nemis de notre S. Religion ne manqueroient pas d'en tirer. C'eſt a
+<pb facs="tcp:152862:6"/> ce qui nous a fait penſer qu'il ſe<g ref="char:EOLhyphen"/>roit à propos de communiquer la choſe à VOS HAUTS PUISSANCES, &amp; de les ſup<g ref="char:EOLhyphen"/>pler, comme nous le faiſons, d'in<g ref="char:EOLhyphen"/>terpoſer leur authorité pour arré<g ref="char:EOLhyphen"/>ter le cours d'une ſemblable con<g ref="char:EOLhyphen"/>duite; &amp; d'émpecher par ce moyen, que rien ne trouble la paix &amp; l'union qui ont toujours eſté entre nos Egliſes.</p>
+            <p>Nous ne doutons pas, TRES-HAUTS &amp; TRES-PUIS<g ref="char:EOLhyphen"/>SANS SEIGNEURS, que V. H. P. réflechiſſant par leur prudence exquiſe, ſur l'importance de cette affaire, &amp; ſur les accidens fâcheux qui pourroient s'enſuivre, Elles ne ſoient diſpoſées à y apporter les remédes convenables.</p>
+            <p>Nous faiſons des voeux tres ardens pour la conſtante proſpérité, &amp; la
+<pb facs="tcp:152862:6"/> pour la Gloire de VOS HAU<g ref="char:EOLhyphen"/>TES PUISSANCES; &amp; nous ſommes avec reſpect.</p>
+            <closer>
+               <salute>Tres-Hauts &amp; Tres-Puiſſans Seigneurs, de Vos Hautes Puiſſances</salute>
+               <signed>Les tres-humbles Serviteurs Les Syndics &amp; conſeil de Geneve</signed>
+               <dateline>A Geneve <date>lo 24. Octob. 1700.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="relation">
+            <pb facs="tcp:152862:7"/>
+            <pb n="1" facs="tcp:152862:7"/>
+            <head>RECIT DE LA MANIERE DONT LES PSAUMES DE DAVID, Retouchez par Mrs. CONRART, &amp; de LABASTIDE, ont été in<g ref="char:EOLhyphen"/>troduits dans L'EGLISE DE GENEVE.</head>
+            <p>
+               <seg rend="decorInit">L</seg>ES Paſteurs, &amp; les Pro<g ref="char:EOLhyphen"/>feſſeurs de Geneve, ne penſoient point à re<g ref="char:EOLhyphen"/>voir les Pſaumes de Marot, &amp; de Mr. de Beze. Ils ſavoient qu'on y tra<g ref="char:EOLhyphen"/>vailloit en France, pour ſatisfaire au deſir de pluſieurs Egliſes; &amp; ils s'en repoſoient ſur les ſoins des Hommes
+<pb n="2" facs="tcp:152862:8"/> celebres pour leur ſavoir, pour leur pieté, &amp; pour leur intelligence en la pureté de la Langue, qui avoient cette affaire à coeur. Mais quelque tems après la diſperſion de ces Egliſes, on porta à la Compagnie des Paſt<g ref="char:EOLhyphen"/>teurs, &amp; des Profeſſeurs de Geneve, une Lettre du Conſiſtoire de l'Egliſe Françoiſe de Zurich, qui les prioit d'introduite les Pſaumes de Mr. Con<g ref="char:EOLhyphen"/>rart dans l'uſage public de leur Egliſe; pour exciter par leur exem<g ref="char:EOLhyphen"/>ple les Egliſes Françoiſes à executer ce qu'on auroit fait en France, ſi elles euſſent ſubſiſté. Voici la teneur de cette Lettre.</p>
+            <pb n="3" facs="tcp:152862:8"/>
+            <floatingText type="letter" xml:lang="fre">
+               <body>
+                  <opener>
+                     <dateline>à Zurich <date>le 10/20 Mai 1688.</date>
+                     </dateline>
+                     <salute>MONSIEUR,</salute>
+                  </opener>
+                  <p>IL y a long tems que pluſieurs Perſonnes devotes &amp; judicieuſes on France ont témoigné ſouhaitter que nous employaſſions dans nos Exercices de pieté une Verſion des Pſaumes de David plus correcte &amp; plus conforme à l'uſage de nôtre Lan<g ref="char:EOLhyphen"/>gue &amp; de nôtre ſiecle que la Verſion de Clement Marot &amp; de Theodore de Beze. Mais, quoi que la plus grande partie des perſonnes les plus raiſonnables de nôtre Religion deſi<g ref="char:EOLhyphen"/>rât d'avoir une autre verſion, nul n'avoit oſé l'entreprendre juſques à feu Monſieur Conrart, Secretaire du Roy, dont la ſageſſe, la vertu, le zele, &amp; le bon goût pour tous les Ouvrages d'eſprit, &amp; particuliere<g ref="char:EOLhyphen"/>ment pour ceux qui paroiſſent en nôtre Langue, ont été generalement reconnus. On ſait avec quel ſuccés il
+<pb n="4" facs="tcp:152862:9"/> a travaillé à corriger cette vieille ver<g ref="char:EOLhyphen"/>ſion, &amp; que le Synode de l'Iſle de France, &amp; ceux des Provinces voiſi<g ref="char:EOLhyphen"/>nes ont extremement approuvé ſes ſoins, &amp; lui en ont fait des remercî<g ref="char:EOLhyphen"/>mens tres-honorables. Sa Reviſion a été imprimée aprés ſa mort en deux ou trois formes differentes, après que des amis fideles &amp; intelligens, à qui il l'avoit remiſe, l'ont eu diligem<g ref="char:EOLhyphen"/>ment examinée, ſelon l'ordre qu'il en avoit laiſſé. Il'y a lieu de croire qu'elle ſe ſeroit introduite dans nos Egliſes, ſi nous euſſions eu une enti<g ref="char:EOLhyphen"/>ere liberté, &amp; ſi la communication d'un Synode avec l'autre n'eût pas été défenduë ſous des peines tres-ri<g ref="char:EOLhyphen"/>goureuſes. Car nonobſtant ces diffi<g ref="char:EOLhyphen"/>cultez, un nombre infini de gens ha<g ref="char:EOLhyphen"/>biles &amp; d'un grand diſcernement ne chantoient déja plus dans nos Tem<g ref="char:EOLhyphen"/>ples que les Pſaumes retouchez par Monſieur Conrart, &amp; conſervoient les vieux dans leurs cabinets, comme des pieces curieuſes, plus venerables
+<pb n="5" facs="tcp:152862:9"/> par leur antiquité, par la memoire de Mr. de Beze, &amp; par la vogue qu'elles ont euë parmi nous, qu'elles ne ſont pro<g ref="char:EOLhyphen"/>pres à exciter aujourdui la devotion des Chrêtiens. Nous avons ſoigneu<g ref="char:EOLhyphen"/>ſement fait réflexion ſur toutes ces choſes dans quelques conferences, &amp; ayant conſideré que la vieille Verſion des Pſaumes étoit devenuë par le tems, &amp; par le changement de la Langue, non ſeulement rude &amp; deſagreable, mais encore obſcure, abſurde, &amp; même burleſque en bien des en<g ref="char:EOLhyphen"/>droits; &amp; qui pis eſt, que beaucoup de mots &amp; d'expreſſions qu'on y voit, ne ſignifiant plus maintenant ce qu'ils ſignifioient autrefois, portoient dans l'eſprit des idées profanes, ſales, &amp; ſcandaleuſes, (ce qu'on ne fauroit trop éviter, ſur tout dans des matie<g ref="char:EOLhyphen"/>res ſaintes) nous ſommes demeurez d'accord que les peuples de nôtre Communion trouveroient de grans avantages, ſi on leur mettoit en main la Verſion de Mr. Conrart à la place
+<pb n="6" facs="tcp:152862:10"/> de la verſion ancienne. Mais, parce que l'Egliſe de Geneve eſt regardée avec juſtice comme la principale des Egliſes Reformées, où l'on ſe ſert de la Langue Françoiſe, nous ſouhait<g ref="char:EOLhyphen"/>terions de tout nôtre coeur que'lle voulut autoriſer par ſon exemple un changement ſi utile, &amp; nous ne dou<g ref="char:EOLhyphen"/>tons point qu'il ne fût bien tôt ſuivi par toutes les Aſſemblées où l'on chante les loüanges de Dieu en nô<g ref="char:EOLhyphen"/>tre Langue. Nous nous adreſſons à vous, <hi>Monſieur,</hi> connoiſſant vôtre pieté, &amp; vos ſentimens ſur le ſujet dont il s'agit; &amp; nous vous prions de repreſenter à tous ces ſavans &amp; excellens hommes de Geneve, avec qui vous pouvez avoir habitude, les puiſſantes raiſons qu il y a de rece<g ref="char:EOLhyphen"/>voir les Pſaumes de la nouvelle Ver<g ref="char:EOLhyphen"/>ſion. Les ennemis de nôtre ſainte Religion, qui mettent tout en oeuvre pour nous tourner en ridicu<g ref="char:EOLhyphen"/>le, ne manquent pas de faire des railleries de nos Cantiques ſpirituels,
+<pb n="7" facs="tcp:152862:10"/> &amp; de nous reprocher, par écrit &amp; de vive voix, les endroits qu'il leur plait de choiſir, &amp; qui ne donnent que trop de priſe à leurs méchantes latyres. Otons leur ce pretexte, ſi nous le pouvons; &amp; nous preſerve<g ref="char:EOLhyphen"/>rons même par là ceux qui ont quel<g ref="char:EOLhyphen"/>que panchant à ſe ranger dans nôtre Communion, du ſcandale qu'ils pren<g ref="char:EOLhyphen"/>nent des paſſages rebutans qu'ils trouvent en liſant nos Pſaumes, com<g ref="char:EOLhyphen"/>me nous l'avons ſouvent éprouvé. Nous prévoyons bien qu'il y aura de grans obſtacles à cet établiſſement, que quelques-uns le traitteront d'in<g ref="char:EOLhyphen"/>novation, &amp; que l'on alleguera que la plûpart d'entre le Peuple, ſachant déja les vieux Pſaumes par coeur, ne pourront s'accoûtumer aux nou<g ref="char:EOLhyphen"/>veaux, &amp; s'imagineront que c'eſt un changement eſſentiel que l'on veut faire dans la Maniere de ſervir Dieu. Mais, outre qu'il n'eſt pas neceſſaire pour ce deſſein, de dé<g ref="char:EOLhyphen"/>fendre abſolument les vieux, &amp;
+<pb n="8" facs="tcp:152862:11"/> qu'il ne faut ſeulement que permet<g ref="char:EOLhyphen"/>tre &amp; conſeiller l'uſage des nouveaux, il n'y a qui que ce ſoit qui ne com<g ref="char:EOLhyphen"/>prenne par le ſens commun, que l'on n'altere rien dans la Foi, ni dans le fonds du Culte, &amp; que l'on change en mieux une vieille pratique dans laquelle le Tems a fait naître des in<g ref="char:EOLhyphen"/>conveniens auxquels il eſt à propos de remedier. Il n'eſt pas juſte que la coûtume prevaille ſur la raiſon &amp; ſur la verité; &amp; ceux qui ſont pré<g ref="char:EOLhyphen"/>venus pour les anciens uſages doi<g ref="char:EOLhyphen"/>vent ſe ſouvenir, que ſi l'on y avoit toûjours deferé on ſeroit encore aſſu<g ref="char:EOLhyphen"/>jetti à des abus tres-dangereux, qui ont été heureuſement corrigez. Nô<g ref="char:EOLhyphen"/>tre exil &amp; nôtre diſperſion dans les Païs étrangers nous faciliteront ce changement; puis que nous pouvons, ſans aucun obſtacle, en faire goûter les motifs à toutes les Egliſes Fran<g ref="char:EOLhyphen"/>çoiſes Reformées, par la communi<g ref="char:EOLhyphen"/>cation qu'il nous eſt permis d'a voir avec elles; &amp; que d'ailleurs nos
+<pb n="9" facs="tcp:152862:11"/> Freres diſperſez s'étant inſenſible<g ref="char:EOLhyphen"/>ment accoûtumez à diverſes choſes contraircs à leurs moeurs, &amp; uſitées dans les divers lieux où la Provi<g ref="char:EOLhyphen"/>dence les a conduits, &amp; qui concer<g ref="char:EOLhyphen"/>nent même les pratiques de devotion, ſe trouveront encore plus diſpoſez qu'ils n'étoient auparavant, à préfe<g ref="char:EOLhyphen"/>rer la nouvelle Verſion des Pſaumes à celle qu'ils ont gardée juſques ici, &amp; ſe déferont plus aiſément des pré<g ref="char:EOLhyphen"/>jugez qui auroient pû empêcher de connoître combien celle qu'on veut établir eſt plus claire, plus naturelle, plus raiſonnable, &amp; plus capable d'inſpirer des ſentimens tendres &amp; pieux, que celle dont on veut les dé<g ref="char:EOLhyphen"/>tacher. Comme le livre des Pſaumes eſt un ouvrage plein de conſolations ſpirituelles pour toutes ſortes de Per<g ref="char:EOLhyphen"/>ſonnes, &amp; employé tous les jours dans nos Devotions ordinaires, il eſt tres-convenable à la ſainteté de ce Livre, &amp; à la ſainteté de l'uſage que nous en faiſons, que la Traduction
+<pb n="10" facs="tcp:152862:12"/> que nôtre Peuple en aura continuel<g ref="char:EOLhyphen"/>lement entre les mains; n'ait rien qui paroiſſe équivoque, ridicule, ni barbare, &amp; qu'au contraire elle ſoit intelligible, ſerieuſe, douce, &amp; mo<g ref="char:EOLhyphen"/>deſte, telle que celle de feu Monſieur Conrart. Nous vous conjurons, <hi>Monſieur nôtre tres-Cher Frére,</hi> par l'interêt de toutes les Egliſes Fran<g ref="char:EOLhyphen"/>çoiſes Reformées, dont l'avantage eſt la ſeule fin que nous-nous propo<g ref="char:EOLhyphen"/>ſons ici, de travailler de tout vôtre pouvoir pour obliger Meſſieurs de Geneve de conſentir à une choſe qui contribuera infailliblement à nôtre commune édification. S'ils veulent bien faire ceſſer dans leur Ville les impreſſions des vieux Pſaumes en rime, &amp; faire en ſorte que l'on im<g ref="char:EOLhyphen"/>prime ceux de Mr. Conrart en tou<g ref="char:EOLhyphen"/>tes les formes les plus commodes à porter: nous eſperons que la bonté deceux-ci les fera recevoir ſans peine, &amp; que dans peu de tems on les aura appris par coeur, &amp; l'on ne voudra
+<pb n="11" facs="tcp:152862:12"/> plus ſe ſervir des autres. Nous re<g ref="char:EOLhyphen"/>commandons cette importante affaire à vôtre zele &amp; à vôtre prudence, &amp; nous prions Dieu qu'il la veuille faire reüſſir à ſa plus grande gloire, &amp; qu'il vous accompagne de fes be<g ref="char:EOLhyphen"/>nedictions &amp; de ſes graces. Nous ſommes veritablement.</p>
+                  <closer>
+                     <salute>Monſieur,</salute>
+                     <signed>Vos tres humbles &amp; tres o<g ref="char:EOLhyphen"/>beïſſans Serviteurs &amp; Fre<g ref="char:EOLhyphen"/>res en nôtre Seigneur, les Miniſtres &amp; les Anci<g ref="char:EOLhyphen"/>ens de l'Egliſe Françoiſe recueillie à Zurich, <hi>&amp; pour tous avec charge.</hi>
+                        <list>
+                           <item>P. Reboulet, <hi>Paſteur de l'Egliſe Françoiſe de Zurich.</hi>
+                           </item>
+                           <item>Vulſon la Colombiere, <hi>Paſteur de l'Egliſe de Saint Jean d'Erans en Dauphiné.</hi>
+                           </item>
+                           <pb n="12" facs="tcp:152862:13"/>
+                           <item>J. Daillé, <hi>Miniſtre de l'Egliſe Refor<g ref="char:EOLhyphen"/>mée de Paris.</hi>
+                           </item>
+                           <item>Chambon, <hi>Miniſtre de l'Egliſe d'Aimargues.</hi>
+                           </item>
+                           <item>Coulan, <hi>Paſteur de l'Egliſe d'Alez.</hi>
+                           </item>
+                           <item>Du Cros, <hi>Miniſtre de Sommieres au Bas Languedoc.</hi>
+                           </item>
+                           <item>S. Perrin, <hi>Paſteur de Ferrieres au Haut Languedoc.</hi>
+                           </item>
+                           <item>Bouſanquet, <hi>Miniſtre du Saint E<g ref="char:EOLhyphen"/>vangile.</hi>
+                           </item>
+                           <item>Coulan, Fils, <hi>Miniſtre du Saint E<g ref="char:EOLhyphen"/>vangile.</hi>
+                           </item>
+                           <item>Daniel Reboulet, <hi>Miniſtre.</hi>
+                           </item>
+                           <item>Pellet, <hi>Miniſtre du Saint Evan<g ref="char:EOLhyphen"/>gile.</hi>
+                           </item>
+                           <item>Teiſſier, <hi>Ancien de l'Egliſe Françoiſe de Zurich.</hi>
+                           </item>
+                           <item>Saurin, <hi>Ancien.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>APrés la lecture de cette Let<g ref="char:EOLhyphen"/>tre, pluſieurs dirent, qu'elle meritoit qu'on y fiſt attention, &amp; qu'il eût été à ſouhaiter, que le
+<pb n="13" facs="tcp:152862:13"/> malheur des Egliſes de France n'eût pas empêché l'établiſſement de ces Pſaumes; Et d'autres ayant dit, qu'il y pourroit avoir des inconve<g ref="char:EOLhyphen"/>niens à changer les Pſaumes, on laiſſa paſſer des années entieres, ſans rien reſoudre là deſſus. On ſe con<g ref="char:EOLhyphen"/>tentoit d'en diſcourir, pour &amp; con<g ref="char:EOLhyphen"/>tre; Et on tâchoit par des converſa<g ref="char:EOLhyphen"/>tions particulieres, &amp; par celles qu'on avoit dans la Compagnie, de con<g ref="char:EOLhyphen"/>venir de ce qui ſeroit le plus avanta<g ref="char:EOLhyphen"/>geux aux Egliſes. Enfin, au bout de ſept ans, on s'accorda à revoir la Verſion de Mr. Conrart, pour en connoitre la qualité; y faire quel<g ref="char:EOLhyphen"/>ques changemens, s'il étoit neceſſaire; en faire enſuite une Edition, &amp; dé<g ref="char:EOLhyphen"/>couvrir les penſées des Egliſes, par un Avis qu'on y mettroit, qui aver<g ref="char:EOLhyphen"/>tiroit tout le monde du deſſein d'em<g ref="char:EOLhyphen"/>ployer ces nouveaux Pſaumes dans le Service Divin; Et par lequel on prieroit les habiles gens de commu<g ref="char:EOLhyphen"/>niquer leurs Remarques à Geneve,
+<pb n="14" facs="tcp:152862:14"/> afin de rendre ces Pſaumes plus utiles aux Egliſes.</p>
+            <p>Ce projet étant executé, on at<g ref="char:EOLhyphen"/>tendit près de trois ans les avis qui pourroiënt venir; Et pendant cet in<g ref="char:EOLhyphen"/>tervalle, on recevoit bien des Lettres d'approbation, &amp; d'encouragement à les établir; mais jamais il n'en vint d'aucun Corps. ni d'aucun particuli<g ref="char:EOLhyphen"/>er, qui marquât le moins du monde qu'on le trouveroit mauvais. Les lettres des uns, &amp; le ſilence des autres, perſuadérent la Compagnie des Paſteurs &amp; des Profeſſeurs de Gene<g ref="char:EOLhyphen"/>ve, que l'Ouvrage ſeroit bien reçû par tout; &amp; qu'aucun François ne s'éronneroit de voir les nouveaux Pſaumes introduits dans Geneve Cet<g ref="char:EOLhyphen"/>te conſideration, jointe aux raiſons alleguées dans les deliberations, dé<g ref="char:EOLhyphen"/>termina la Compagnie à s'en ſervir dans les Temples; &amp; à les faire ap<g ref="char:EOLhyphen"/>prendre auparavant aux enfans dans toutes les petites écoles publiques, &amp; particulieres.</p>
+            <pb n="15" facs="tcp:152862:14"/>
+            <p>Lors qu'on fit cette reſolution, on delibera ſi l'on conſulteroit les Egli<g ref="char:EOLhyphen"/>ſes, &amp; on jugea qu'il ne falloit pas le faire.</p>
+            <p n="1">1<hi rend="sup">o</hi>. Parce qu'elles étoient ſuffiſam<g ref="char:EOLhyphen"/>ment informées de ce deſſein par l<g ref="char:punc">▪</g>impreſſion des Pſaumes, &amp; par l'A<g ref="char:EOLhyphen"/>vis qu'on avoit mis à leur tête.</p>
+            <p n="2">2<hi rend="sup">o</hi>. Parce que nulle raiſon n'y obligeoit la Compagnie. L'Egliſe de Geneve eſt dans une République ſouveraine, &amp; indépendante à tous égards, Elle a droit de faire pour ſa propre édification tout ce qu'elle eſtime lui convenir. La communion qu'elle a avec les autres Egliſes ne l'engage point à les conſulter, com<g ref="char:EOLhyphen"/>me les autres Egliſes ne ſont point obligées à lui demander ſes avis. Châque Egliſe demeure maîtreſſe ab<g ref="char:EOLhyphen"/>ſoluë d'elle-même, quand ſon Ma<g ref="char:EOLhyphen"/>giſtrat eſt Souverain. Elle peut éta<g ref="char:EOLhyphen"/>blir, abroger, ou changer ce qu'elle trouve à propos, ſans donner lieu à aucune autre Egliſe de ſe plaindre
+<pb n="16" facs="tcp:152862:15"/> qu'on lui ait fait tort. C'eſt en ver<g ref="char:EOLhyphen"/>tu de ce droit, que châque Egliſe a ſa Forme de gouverment, ſa Con<g ref="char:EOLhyphen"/>feſſion de Foi, ſa Liturgie, ſa Lan<g ref="char:EOLhyphen"/>gue, ſa Diſcipline, &amp; d'autres cho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es extrémement differentes de celles des autres Egliſes; quoi que les E<g ref="char:EOLhyphen"/>gliſes de divers païs ſoient dans la même créance, &amp; dans la commu<g ref="char:EOLhyphen"/>munion les unes des autres.</p>
+            <p n="3">3<hi rend="sup">o</hi>. C'eſt l'ancien uſage de l'Egliſe de Geneve. Dans un grand nom<g ref="char:EOLhyphen"/>bre d'affaires importantes, elle n'a point conſulté les autres Egliſes; ni les autres Egliſes ne l'ont pas auſſi conſultée en pluſieurs occaſions; quoi qu'il y eût une étroite union entr'el<g ref="char:EOLhyphen"/>les L'Egliſe de Geneve avoit dreſ<g ref="char:EOLhyphen"/>ſé une Liturgie, que les Egliſes de France prirent ſans lui en demander avis. Elle avoit une Confeſſion de Foi particuliere dans ſon Academie; Et elle adopta auſſi la Confeſſion de Foi des Egliſes de France, ſans le leur communiquer. Les Egliſes ſans
+<pb n="17" facs="tcp:152862:15"/> ſe conſulter reciproquement en ont uſé comme il leur a ſemblé bon-Quoi que l'Egliſe de Geneve ait toû<g ref="char:EOLhyphen"/>jours été fort étroitement unie avec les Egliſes de France, &amp; avec celles de Suiſſe, &amp; qu'elle ait même envoyé quelques fois des Deputez dans les Synodes de l'une &amp; de l'autre Nation, elle s'eſt pourtant toûjours gouvernée, comme elle a jugé convenable. Elle a obſervé, ou aboli certaines Fêtes; Elle a decidé des points de Doctrine. Elle a uſé dans la Cene du pain levé, ou azyme; &amp; fait diverſes choſes, comme elle trouvoit à propos, ſans qu'aucune Egliſe ſe plaignît de la formalité, encore qu'on tâchât d'un côté ou d'autre de faire changer la choſe. Si elle a quelquesfois con<g ref="char:EOLhyphen"/>feré avec d'autres Egliſes; Si elle a fait des établiſſemens, ſans le leur communiquer, ou même contre leur avis, Elle n'a pas laiſſé de deméurer également en leur communion.</p>
+            <p n="4">4<hi rend="sup">o</hi>. On avoit examiné avec gran<g ref="char:EOLhyphen"/>de
+<pb n="18" facs="tcp:152862:16"/> attention, dans la Compagnie, les raiſons qui favoriſoient, ou qui pou<g ref="char:EOLhyphen"/>voient empêcher l'introduction des nouveaux Pſaumes; &amp; l'avis qui a<g ref="char:EOLhyphen"/>voit prévalu avoit paru ſi bien fondé, qu'on n'auroit pû ſe reſoudre à gar<g ref="char:EOLhyphen"/>der les vieux; pourquoi donc de<g ref="char:EOLhyphen"/>mander l'avis des Egliſes? Si on n'en eût conſulté que quelques unes, les autres auroient pû ſe plaindre d'avoir été négligées. Si l'on ſe fût adreſſé à toutes; outre le grand em<g ref="char:EOLhyphen"/>barras dans lequel on ſe mettoit, il s'en fût toûjours trouvé quelques-unes, qui auroient allegué des difficultez, &amp; il auroit fallu bien du tems pour y répondre, &amp; pour les éclaircir; Et ſi après des lettres reciproques les Egliſes n'étoient pas convenuës, celles dont l'avis n'auroit pas été ſui<g ref="char:EOLhyphen"/>vi, ſe ſeroient offenſées du procedé de l'Egliſe de Geneve. On dit donc que la prudence, &amp; le reſpect qu'on avoit pour les autres Egliſes, ne permettoit pas de les conſulter.</p>
+            <pb n="19" facs="tcp:152862:16"/>
+            <p n="5">5<hi rend="sup">o</hi>. On en ajoûta une nouvelle raiſon trés-conſiderable. C'eſt qu'il falloit voir auparavant le ſuccez que les nouveaux Pſaumes auroient dans Geneve. S'il en arrivoit quelque inconvenient, on reprendroit les vieux de meilleure grace; Si le ſuc<g ref="char:EOLhyphen"/>cez répondoit au deſir, &amp; à l'eſpe<g ref="char:EOLhyphen"/>rance qu'on avoit, on communique<g ref="char:EOLhyphen"/>roit avec plaiſir aux autres Egliſes ce qu'on auroit fait; Et la facilité, &amp; l'utilité de cette introduction ſervi<g ref="char:EOLhyphen"/>roit à diſſiper la crainte des incon<g ref="char:EOLhyphen"/>veniens qu'on pourroit ſe figurer ailleurs.</p>
+            <p>Enfin la Compagnie ſe voyant fondée ſur le droit, ſur la coûtume de ſes Prédeceſſeurs, ſur l'exemple des Egliſes avec leſquelles elle a le plus de liaiſon, &amp; ſur les regles de la prudence, &amp; de la juſtice, elle conclut qu'il n'étoit pas à propos de conſulter les autres Egliſes.</p>
+            <p>Ce fut ſur ces fondemens qu'on ſe contenta de demander au Magi<g ref="char:EOLhyphen"/>ſtrat
+<pb n="20" facs="tcp:152862:17"/> ſtrat ſon approbation: &amp; aprés l'avoir obtenuë, on introduiſit les nouveaux Pſaumes dans les Temples.</p>
+            <p>On laiſſa paſſer quatorze mois à voir comment ces Pſaumes reüſſiſſoi<g ref="char:EOLhyphen"/>ent dans la Ville, &amp; dans les Egliſes de la campagne.</p>
+            <p>Lors qu'on eut vû que tout le monde s'en loüoit, &amp; qu'il n'en é<g ref="char:EOLhyphen"/>toit arrivé aucun inconvenient, quel<g ref="char:EOLhyphen"/>ques Paſteurs repreſentérent, qu'il étoit tems de ſatisfaire à la lettre de Zurich, &amp; au deſir d'une infinité d'autres gens; qu'il falloit écrire aux autres Egliſes, pour leur don<g ref="char:EOLhyphen"/>ner occaſion de faire les mêmes ré<g ref="char:EOLhyphen"/>flexions qu'on avoit faites à Geneve. Surquoi la Compagnie ordonna, qu'on écriroit une Lettre circulaire, d'une maniere prudente, &amp; reſpectu<g ref="char:EOLhyphen"/>euſe; qu'on prendroit garde à ne demander avis à perſonne; à n'exi<g ref="char:EOLhyphen"/>ger rien de perſonne à n'exhorter perſonne à rien. Qu'on ſe conten<g ref="char:EOLhyphen"/>teroit de faire ſavoir ce qu'on a<g ref="char:EOLhyphen"/>voit
+<pb n="21" facs="tcp:152862:17"/> fait, d'en toucher les principales raiſons, de marquer la benediction que Dieu y avoit répanduë; &amp; qu'on laiſſeroit à châque Egliſe, la liberté de faire, après cela, ce qu'elle trouveroit bon. La Lettre fut ex<g ref="char:EOLhyphen"/>actement dreſſée ſelon cette intenti<g ref="char:EOLhyphen"/>on, comme on verra en la liſant.</p>
+            <floatingText type="letter" xml:lang="fre">
+               <body>
+                  <head>Lettre écrite aux Egliſes Françoiſes de divers Païs.</head>
+                  <opener>
+                     <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                  </opener>
+                  <p>LA Liaiſon que nous avons euë depuis la Reformation, avec les Egliſes Françoiſes &amp; Wallonnes, nous a fait croire, que nous devions vous communiquer ce que nous avons fait dans cette Ville, touchant les Pſau<g ref="char:EOLhyphen"/>mes qu'on employe dans le Service divin; &amp; la correſpondance qu'elles ont bien voulu entretenir toûjours avec nous, nous a fait eſperer que vous
+<pb n="22" facs="tcp:152862:18"/> ne le trouveriez pas mauvais. Nous étions dés long-tems entrez dans les ſentimens des Egliſes, &amp; des Synodes de France, qui deſiroient, qu'on re<g ref="char:EOLhyphen"/>touchât les Pſaumes traduits en Vers par Matot, &amp; par Mr. de Beze; &amp; nous avions donné en nous mêmes à ceux de Monſieur Conrart la même approbation qu'ils avoient eüe des Perſonnes éclairées, &amp; de tous les gens de bien, dans ce grand Royaume; Mais la crainte que nôtre Magiſtrat, ou que nôtre Peuple, ne pût conſentir à un changement dans l'Uſage pu<g ref="char:EOLhyphen"/>blic, nous a retenus pluſieurs années dans le ſilence. Nous remarquions que les uns nous accuſeroient de man<g ref="char:EOLhyphen"/>quer de reſpect pour la memoire des Auteurs de la premiere Verſion; ou s'imagineroient qu'en corrigeant le langage, on changeoit les penſées; &amp; que d'autres ne pourroient ſouffrir, qu'on leur fit abandonner des Pſau<g ref="char:EOLhyphen"/>mes qu'ils ſavoient par coeur, &amp; dont ils avoient tiré, toute leur vie, une ſi
+<pb n="23" facs="tcp:152862:18"/> grande conſolation, pour en appren<g ref="char:EOLhyphen"/>dre de nouveaux, que l'âge, ou le defaut de memoire ne permettroit pas de ſavoir jamais, ou ſans une peine fort deſagreable. Ces conſiderations, &amp; d'autres, priſes de l'humeur des peuples, &amp; du jugement qu'ils font d'ordinaire de ce qu'on veut établir contre leur uſage, nous avoient empê<g ref="char:EOLhyphen"/>ché d'introduire dans nos Temples la traduction de Monſieur Conrart; Mais enfin, aprés avoir mûrement penſé à la neceſſité de ce nouvel Ou<g ref="char:EOLhyphen"/>vrage, &amp; à l'utilité que l'Egliſe en tireroit, nous nous reſolûmes à exami<g ref="char:EOLhyphen"/>ner la fidelité, &amp; la bonté de cette traduction, dans la veüe de pouvoir at<g ref="char:EOLhyphen"/>teſter à nôtre Magiſtrat, dont l'autori<g ref="char:EOLhyphen"/>té nous étoit abſolument neceſſaire, qu'on pouvoit ſans ſcrupule, &amp; qu'on devoit, pour une plus grande édi<g ref="char:EOLhyphen"/>fication de l'Egliſe, ſe ſervir dans les Aſſemblées publiques de cette nou<g ref="char:EOLhyphen"/>velle Verſion. Pour obtenir leur con<g ref="char:EOLhyphen"/>ſentement, nous leur repreſentâmes
+<pb n="24" facs="tcp:152862:19"/> les raiſons qui nous y déterminoient. Nous leur en allegâmes deux princi<g ref="char:EOLhyphen"/>pales, fondées ſur la Parole même de Dieu; L'une eſt, le grand nom<g ref="char:EOLhyphen"/>bre de mots &amp; de phraſes qu'on n'en<g ref="char:EOLhyphen"/>tend plus, parce qu'elles ne ſont plus en uſage; &amp; nulle Egliſe, ſi elle é<g ref="char:EOLhyphen"/>coute Saint Paul, ne doit faire le Ser<g ref="char:EOLhyphen"/>vice divin, ni en tout, ni en partie, en des termes qui ſo ient inintelligibles. L'autre eſt, le mépris avec lequel nos Adverſaires parloient de nos Pſau<g ref="char:EOLhyphen"/>mes, &amp; les railleries qu'ils en faiſoi<g ref="char:EOLhyphen"/>ent dans leurs prédications, &amp; dans leurs écrits, tant à cauſe des fautes dont ils ſont remplis contre les regles de la Poëſie d'aujourdui, qu à cauſe principalement de pluſieurs expreſſi<g ref="char:EOLhyphen"/>ons, qui ne ſont plus ſupportables dans ce ſiecle, où la clarté, &amp; la politeſſe ſont tout-à-fait néceſſaires. A quoi nous ajoûtames, que quelques Ecrivains pretendoient juſtifier, dans leurs livres, l'Egliſe Romaine, de ce qu'elle conſervoit l'uſage de la
+<pb n="25" facs="tcp:152862:19"/> langue Latine dans le ſervice divin, par l'exemple de nos Pſaumes, qu'ils nous reprochoient de n'oſer changer, quelque obſcurs &amp; defectueux que nous les reconnuſſions, à cauſe du peuple qui y étoit accoûtumé. Nous leur fîmes donc comprendre, que nous devions retrancher à ceux de Rome l'occaſion de maintenir leurs abus par nôtre pratique, &amp; qu'il faloit rendre honorable nôtre Religion, ſi nous voulions déferer à l'ordre de S Paul, qui recommande fortement <hi>au</hi> xiv. <hi>de la</hi> 1. <hi>aux Cor.</hi> d'avoir dans le Service de Dieu un tres-grand é<g ref="char:EOLhyphen"/>gard aux êtrangers de la foi. Cette remontrance ayant fait l'impreſſion que nous ſouhaittions, nous fîmes mettre ſous la preſſe les Pſaumes que nous avions revûs. Nous recomman<g ref="char:EOLhyphen"/>dâmes aux Maîtres &amp; aux Maîtreſſes d'Ecole, de les faire apprendre aux enfans; &amp; au bout d'un an, ou deux, nous avertîmes de nôtre deſ<g ref="char:EOLhyphen"/>ſein le Peuple dans tous nos Temples.
+<pb n="26" facs="tcp:152862:20"/> Nous exhortâmes chacun à pourvoir ſa famille, des Pſaumes de cetté nou<g ref="char:EOLhyphen"/>velle reviſion; &amp; deux mois apres, nous les fîmes chanter publiquement; Ce qui fut fait pour la premiere fois, le premier Dimanche de Novembre de l'an mille ſix cent, quatre vint &amp; dixhuit. Et dans les Sermons de ce jour là nous inſtruisîmes nos audi<g ref="char:EOLhyphen"/>teurs des raiſons de ce changement. Le ſuccez graces à Dieu, a ſurpaſſé nôtre attente. Aprés que les plus dif<g ref="char:EOLhyphen"/>ficiles eurent conſideré nos raiſons, ils en demeurerent ſatisfaits, &amp; tout le monde voit aujourd huy avec joye cet avantageux établiſſement. Nous declarâmes d'abord, que nous laiſ<g ref="char:EOLhyphen"/>ſions à chacun la liberté de chanter les vieux ou les nouveaux Pſaumes; <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>is il ne ſe paſſa pas deux ou trois <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> maines, que tout le monde voulut a voir les nouveaux, &amp; nous pouvons vous aſſurer, Meſſieurs, qu'il n'eſt arrivé aucun defordre dans le chant, ni dans cette Ville, ni dans nos
+<pb n="27" facs="tcp:152862:20"/> Egliſes de la Campagne où nous les avons introduits. Au contraire, nous apprenons avec plaiſir, que les Paï<g ref="char:EOLhyphen"/>ſans même les chantent avec la même facilité que les vieux, &amp; qu ils en té<g ref="char:EOLhyphen"/>moignent beaucoup de ſatisfaction, parce qu'ils les entendent mieux. Le contentement que nous avons eu de voir nos peuples édifiez, &amp; le Culte divin à couvert de la moquerie de nos Adverſaires, &amp; propre à gagner leur eſtime, nous a portez à vous donner avis de ce que nous avons fait, &amp; de la benediction que Dieu y a répanduë. L'experience que nous venons de faire de l'utilité de ce changement peut ſervir à juſtifier la ſageſſe, &amp; la pieté des Egliſes de France qui le deſiroient, &amp; aſſurer celles d'aujourd'huy contre la crainte de tous les inconveniens qu'on pour<g ref="char:EOLhyphen"/>roit s'en figurer. Chacune peut faire à cette heure, ce qu'elle jugera le plus expedient pour ſon édification. Nous ne nous ſommes propoſez au<g ref="char:EOLhyphen"/>tre
+<pb n="28" facs="tcp:152862:21"/> choſe, en vous écrivant, que de vous témoigner le deſir que nous avons d'entretenir une étroite union avec vos Egliſes, &amp; nous eſperons que la liberté que nous avons priſe, ne vous déplaira pas. Elle pourra donner occaſion de faire réflexion ſur ce qui peut le plus contribuer à l'hon<g ref="char:EOLhyphen"/>neur du Service de Dieu envers ceux de dehors; à produire le plus de fruit pour le ſalut de vos troupeaux, &amp; à procurer une parfaite correſpon<g ref="char:EOLhyphen"/>dance entre les Egliſes. Nous prions Dieu qu'il conſerve les vôtres, &amp; qu'il les faſſe fleurir, qu'il répande la bonne odeur de vôtre doctrine, &amp; de vôtre culte par toute la terre, &amp; qu'il vous comble de ſes plus precieuſes fa<g ref="char:EOLhyphen"/>veurs. Nous ſommes</p>
+                  <closer>
+                     <salute>Meſſieurs &amp; tres honorés Fréres,</salute>
+                     <signed>Vos tres-humbles, &amp; tres-obeiſſans ſerviteurs, &amp; Fréres au Seigneur, les Pa<g ref="char:EOLhyphen"/>ſteurs &amp; les Profeſſeurs de l'Egliſe &amp; de l'Academie de Geneve, <hi>&amp; pour tous</hi>
+                        <list>
+                           <item>Tronchin <hi>Moderateur,</hi>
+                           </item>
+                           <item>Sarraſin <hi>Secretaire.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                     <dateline>A Geneve <date>ce 12. Janvier 1700.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="29" facs="tcp:152862:21"/>
+            <p>CHâque Egliſe fit l'honneur à la Compagnie de lui répondre, les unes plûtôt, les autres plus trad. On inſere ici les Réponſes, ſelon leur date.</p>
+            <floatingText xml:lang="fre" type="replies">
+               <body>
+                  <head>Réponſes des Egliſes Françoiſes &amp; Wallonnes, aux Paſteurs, &amp; aux Profeſſeurs de Geneve.</head>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Berne.</head>
+                        <opener>
+                           <dateline>A Berne <date>ce 25. Janvier 1700.</date>
+                           </dateline>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres au Seigneur.</salute>
+                        </opener>
+                        <p>NOus vous ſommes ſort obligés de la part que vous nous faites de la prudente conduite que vous a<g ref="char:EOLhyphen"/>vez tenuë pour faire recevoir dans vos Egliſes les Pſaumes que vous a<g ref="char:EOLhyphen"/>vez ſi bien retouchez pour les rendre plus intelligibles &amp; plus propres à é<g ref="char:EOLhyphen"/>difier ceux qui les chantent ou qui les apprennent par coeur. L'on ne pou<g ref="char:EOLhyphen"/>voit s'y prendre mieux que vous
+<pb n="30" facs="tcp:152862:22"/> avez fait, &amp; nous loüons Dieu de ce que le ſuccez a répondu à vos eſpe<g ref="char:EOLhyphen"/>rances. Nous avons crû que vous ne trouveriez pas mauvais que nous communiquaſſions vôtre Lettre à nos Seigneurs qui y feront, ſans doute, des réflexions convenables. Monſieur Hollard Miniſtre de l'Egliſe Fran<g ref="char:EOLhyphen"/>çoiſe a bien voulu ſe charger de cette Commiſſion. Vôtre entrepriſe temoi<g ref="char:EOLhyphen"/>gne le ſoin que vous avez des Egliſes du Seigneur, &amp; que vous ne negli<g ref="char:EOLhyphen"/>gez aucun des moyens qui peuvent ſervir à leur édification. Nous ſommes auſſi ſenſiblement touchés de ce qu'a<g ref="char:EOLhyphen"/>prés avoir entretenu ſi parfaitemént une ſainte communion avec les Egli<g ref="char:EOLhyphen"/>ſes Reformées de France, vous avez encore de grands égards pour leurs triſtes débris, &amp; particulietement pour ceux que la Providence divine a jet<g ref="char:EOLhyphen"/>tés en ce lieu. C'eſt une tres-douce conſolation pour nous. Nous prions Dieu qu'il dirige toûjours vos ſoi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> &amp; vos travaux au bien de ſon Egli<g ref="char:EOLhyphen"/>ſe,
+<pb n="31" facs="tcp:152862:22"/> qu'il lui plaiſe de continuer long<g ref="char:EOLhyphen"/>tems à faire ſon oeuvre par vos mains, &amp; qu'il répande abondam<g ref="char:EOLhyphen"/>ment ſes benedictions ſur vôtre Saint Miniſtere. Ce ſont les voeux que font de tout leur coeur ceux qui ſont avec reſpect</p>
+                        <closer>
+                           <salute>Meſſieurs nos tres-honorés Fréres,</salute>
+                           <signed>Vos tres-humbles &amp; tres-obeïſſans Serviteurs &amp; Fré<g ref="char:EOLhyphen"/>res au Seigneur, les Mini<g ref="char:EOLhyphen"/>ſtres &amp; Directeurs des Refu<g ref="char:EOLhyphen"/>giez, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>Hollard, <hi>Moderateur.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="32" facs="tcp:152862:23"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Baſle.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorez Fréres,</salute>
+                        </opener>
+                        <p>C'Eſt avec bien de la joye que avons reçu la Lettre que vous nous avez fait l'honneur de nous é<g ref="char:EOLhyphen"/>crire, au ſujet de la nouvelle verſon des Pſaumes que vous avez reveuë &amp; introduite depuis quelques années dans le Culte public qui ſe rend à Dieu dans vos Temples. Comme les rai<g ref="char:EOLhyphen"/>ſons qui vous ont engagé à le faire, &amp; que vous avez eu la bonté de nous communiquer, ſont tres fortes &amp; con<g ref="char:EOLhyphen"/>vaincantes, nous ne pouvons que louër Dieu de vous en avoir inſpiré le deſſein, &amp; de vous avoir facilité les moyens de l'executer avec un ſuc<g ref="char:EOLhyphen"/>cez auſſi general que celui qu'il a eu. Nous ne doutons pas que les Egliſes Françoiſes qui en ſeront informées n'y faſſent tres-grande attention, &amp; que la ſageſſe &amp; la pieté de vôtre ex<g ref="char:EOLhyphen"/>emple ne les engage à vous imiter.
+<pb n="33" facs="tcp:152862:23"/> Pour nous, nous y avons déja fait de ſerieuſes réflexions, &amp; approuvans la choſe en elle même, nous penſons iux moyens de l'établir parmi nous à l'édification de chacun. Mais com<g ref="char:EOLhyphen"/>me vous ſavez, Meſſieurs, par vôtre propre experience, que pour un changement ſemblable il y a bien des meſures à prendre, pluſieurs préjugez à guerir, &amp; divers obſtacles à ſur<g ref="char:EOLhyphen"/>monter, a fin que le tout ſe faſſe ſans deſordre &amp; au contentement de cha<g ref="char:EOLhyphen"/>cun. Nous nous propoſons de le faire par la douceur, par la conviction, &amp; par le tems, aprés quoi nous ne dou<g ref="char:EOLhyphen"/>tons nullement d'obtenir l'agrément de Nos Souverains Seigneurs pour mettre la choſe à entiere execution. Nous vous remercions cependant de la grace quevous nous avez faite de nous communiquer ce que vous avez éta<g ref="char:EOLhyphen"/>bli à cet égard, avec autant de pieté &amp; de prudence que de bon ſuccez, &amp; d'entretenir ainſi la liaiſon Chrêtienne qu'il y a toûjours eu entre Vous &amp;
+<pb n="34" facs="tcp:152862:24"/> Nous. Nous ne negligerons jamais au<g ref="char:EOLhyphen"/>cune occaſion de la ſerrer de plus en plus, &amp; de vous témoigner l'eſtime &amp; la veneration que nous avons pour vous. Dieu veuille continuer à faire fleutir vôtre Egliſe &amp; à répandre par toute la terre la bonne odeur de ſa pieté. Dieu veuille benit vos Perſonnes &amp; vos travaux, &amp; faire que vôtre Egliſe &amp; vôtre Academie ſoyent toû<g ref="char:EOLhyphen"/>jours la colomne &amp; l'appui de la veri<g ref="char:EOLhyphen"/>té, une pepiniere de Grands Hom<g ref="char:EOLhyphen"/>mes, &amp; de fideles Serviteurs du Seig<g ref="char:EOLhyphen"/>neur. Nous ſommes avec zele &amp; a<g ref="char:EOLhyphen"/>vec ſincerité.</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorez Fréres,</salute>
+                           <signed>Vos tres-humbles &amp; tres-obei<g ref="char:EOLhyphen"/>ſans Serviteurs &amp; Fréres au Seigneur, les Paſteurs &amp; les Anciens de l'Egliſe Françoiſe de Baſle, <hi>&amp; pour tous avec or dre.</hi>
+                              <list>
+                                 <item>B. Fanconis <hi>Paſteur, Moderateur.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                           <dateline>A Baſle <date>ce 14. Fevrier 1700.</date>
+                           </dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="35" facs="tcp:152862:24"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Berlin.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres honorés Fréres,</salute>
+                        </opener>
+                        <p>NOus avons reçu la Lettre dont Vous avez honoré nôtre Com<g ref="char:EOLhyphen"/>pagnie, &amp; nous y avons vû avec u<g ref="char:EOLhyphen"/>ne joye tres-ſenſible, &amp; une recon<g ref="char:EOLhyphen"/>noiſſance toute particuliere les témo<g ref="char:EOLhyphen"/>ignages que Vous nous y donnez de vôtre charité fraternelle, &amp; de l'inte<g ref="char:EOLhyphen"/>reſt que vous prenez à l'édification commune des Egliſes de Dieu, &amp; de la nôtre en particulier. La Renom<g ref="char:EOLhyphen"/>mée nous avoit déja appris le grand ſuccez dont Dieu a favoriſé un deſſein auſſi digne de vôtre ſageſſe &amp; de vô<g ref="char:EOLhyphen"/>tre pieté, que l'étoit celui d'introduire le chant des Pſaumes de la nouvelle reviſion. Nous en avons beni. Dieu de tout nôtre coeur, nous en avons conçu d'abord un favorable augure pour Nous. Car vous pouvez a<g ref="char:EOLhyphen"/>voir appris, Meſſieurs, &amp; tres-hono<g ref="char:EOLhyphen"/>rez Freres, qu'il y avoit déja long<g ref="char:EOLhyphen"/>tems
+<pb n="36" facs="tcp:152862:25"/> que nous avions formé le même deſſein que Vous. Les mêmes raiſons, que vous alleguez ſi ſagement, nous y engageoient, la crainte des mêmes obſtacles nous retenoit, Mais un ex<g ref="char:EOLhyphen"/>emple d'auſſi grand poids que le Vô<g ref="char:EOLhyphen"/>tre ne nous a plus permis de balancer. Cet exemple fera ſur l'eſprit de nôtre Peuple, qui y eſt déja en partie tout diſpoſé, l'impreſſion que doit faire l'exemple d'une Egliſe, que les Egli<g ref="char:EOLhyphen"/>ſes Reformées regardent avec raiſon comme leur Mere, que Dieu a rendüe celebre depuis plus d'un ſiecle par des gráces tout extraordinaires, &amp; par une protection dont il n'a point interrompu le cours, &amp; qui répand par tout la bonne odeur de ſa foi &amp; de ſa charité. Ces raiſons nous ont engagez a faire faire ici une Edition de ces Pſaumes avec quelques change<g ref="char:EOLhyphen"/>mens de peu d'importance, mais neceſ<g ref="char:EOLhyphen"/>ſaires, pour perfectionner peu à peu cet ouvrage, que Meſſieurs Conrart &amp; de la Ba ſtide ont ſi heureuſement
+<pb n="37" facs="tcp:152862:25"/> executé, &amp; auquel on a fait parmi Vous des changemens ſi judicieux, &amp; ſi dignes des grandes lumieres qu'il y a dans vôtre Venerable Corps. Dés que cette Edition ſera achevée, nous en rendrons l'uſage public: S'il ſe trouve encor quelques perſonnes, qui conſervent de l'éloignement pour ce nouvel établiſſement, nous ſom<g ref="char:EOLhyphen"/>mes perſuadez que les ſolides raiſons de vôtre lettre acheveront des les ra<g ref="char:EOLhyphen"/>mener, &amp; avec le ſecours de vos pri<g ref="char:EOLhyphen"/>eres &amp; de vos voeux, nous eſperons que Dieu ne nous refuſera pas dans ce deſſein, que Nous avons formé pour ſa gloire, &amp; pour celle de ſon Egliſe, le même ſuccez qu'il Vous a accordé; Nous vous les demandons avec inſtance, auſſi bien que la con<g ref="char:EOLhyphen"/>tinuation de vôtre bienveuillance, adreſſant de nôtre côté des prieres ar<g ref="char:EOLhyphen"/>dentes à l'Auteur de tout don parfait, qu'il continuë à couvrir vos Egliſes de ſa puiſſante protection, qu'il les faſſe fleurir de plus en plus par la
+<pb facs="tcp:152862:26"/> pureté de la doctrine &amp; du culte, auſſi bien que par la ſainteté des moeurs, &amp; qu'il vous comble tous en general &amp; en particulier de ſes plus précieuſes benedictions. Nous ſom<g ref="char:EOLhyphen"/>mes avec reſpect</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honoréz Fréres,</salute>
+                           <dateline>A Berlin <date>le 3. Mars 1700.</date>
+                           </dateline>
+                           <signed>Vos tres-humbles &amp; tres-obeiſ<g ref="char:EOLhyphen"/>ſans Serviteurs &amp; Fréres au Seigneur, les Paſteurs &amp; Anciens de l'Egliſe Françoiſe de Berlin, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>Bancelin <hi>Moderateur</hi>
+                                 </item>
+                                 <item>C. d'Ingenheim <hi>Ancien, &amp; Secre<g ref="char:EOLhyphen"/>taire de la Compagnie.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="39" facs="tcp:152862:26"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Zurich.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>CE que nous avons été ſi long<g ref="char:EOLhyphen"/>tems à faire réponſe à la Lettre dont il vous a plû de nous honorer ſur le ſujet de l'in<g ref="char:EOLhyphen"/>troduction des Pſaumes de la nou<g ref="char:EOLhyphen"/>velle reviſion dans vôtre Egliſe, ne vient point d'autre cauſe que de ce que ſelon nôtre coûtume, nous avons été obligés de com<g ref="char:EOLhyphen"/>muniquer nôtre deſſein au Magi<g ref="char:EOLhyphen"/>ſtrat &amp; aux Eccleſiaſtiques de cet<g ref="char:EOLhyphen"/>te Ville, &amp; que pour en venir plus facilement à bout, Nous a<g ref="char:EOLhyphen"/>vons crû qu il étoit neceſſaire de nous appuyer de leur approbati<g ref="char:EOLhyphen"/>on. Enfin nous l'avons obtenuë ſans aucune peine, &amp; nous com<g ref="char:EOLhyphen"/>mencerons
+<pb n="40" facs="tcp:152862:27"/> Dimanche prochain, s'il plait à Dieu, d'avertir le peu de Refugiés que nous avons dans cette Ville de cet heureux chan<g ref="char:EOLhyphen"/>gement, aprés avoir donné les ordres neceſſaires pour faire venir de Geneve les Pſaumes dont nous avons beſoin. Nous vous remer<g ref="char:EOLhyphen"/>cions tres-humblement, Meſſieurs &amp; tres-honorés Fréres, de ce que vous avez eu la bonté de nous communiquer vôtre reſolution, dont nous ne doutons pas que toutes nos Egliſes ne ſuivent l'exemple avec plaiſir, puis que depuis long tems elles étoient toutes di<g ref="char:EOLhyphen"/>ſpoſées à cette avantageuſe &amp; heureuſe introduction. Nous vous prions auſſi d'être bien perſuadés que nous ferons gloire d'entrete<g ref="char:EOLhyphen"/>nir toûjours avec l'Egliſe de Ge<g ref="char:EOLhyphen"/>neve une parfaite correſpondance, puis que nous ſommes, &amp; que nous ſerons toute nôtre vie a<g ref="char:EOLhyphen"/>vec
+<pb n="41" facs="tcp:152862:27"/> le reſpect que nous vous de<g ref="char:EOLhyphen"/>vons</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                           <dateline>A Zurich <date>ce 6. Mars 1700.</date>
+                           </dateline>
+                           <signed>Vos tres-humbles &amp; tres-obeïſſans Serviteurs, le Paſteur &amp; les Anciens de l'Egliſe Françoiſe de Zu<g ref="char:EOLhyphen"/>rich, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>Manuel <hi>Paſteur de l'Egliſe.</hi>
+                                 </item>
+                                 <item>Dechampromain <hi>Ancien, &amp; Se<g ref="char:EOLhyphen"/>cretaire.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="42" facs="tcp:152862:28"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe d'Erlang.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>LA Lettre que vous avez eu la bonté de nous écrire du dou<g ref="char:EOLhyphen"/>ziéme Janvier, ne nous a été renduë que le diziéme de Mars, &amp; nous vous dirons pour réponſe, que nôtre Com<g ref="char:EOLhyphen"/>pagnie a appris avec bien du plaiſir comme vôtre Egliſe a enfin introduit dans vos Temples l'uſage du ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nt dés Pſaumes de Monſieur Conrat dans le Service divin<g ref="char:punc">▪</g> Il eſt vrai que nos Synodes, &amp; que nos Egliſes de France deſiroient avec ardeur qu'on retouchât les Pſaumes traduits en vers par Marot &amp; par Monſieur De Beze: &amp; que les perſonnes les plus éclairées du Royaume donnoient leur approbation à ceux de Monſieur Conrart; Mais le triſte état où ſe trouvoient alors nos Egliſes obligea les perſonnes qui pouvoient travail<g ref="char:EOLhyphen"/>ler à l'execution d'un ſi grand deſſein,
+<pb n="43" facs="tcp:152862:28"/> à ſonger à toute autre choſe, c'eſt à dire, à mettre nos Egliſes à couvert de l'orage &amp; de la perſecution. Ce<g ref="char:EOLhyphen"/>pendant vous beniſſons Dieu, de ce qu'il vous a mis au coeur un ſi loüable deſſein, &amp; même qu'il vous a fait ſur<g ref="char:EOLhyphen"/>monter beaucoup de difficultez qui auroient été capables de refroidir, dans cette circonſtance de tems, les perſonnes les plus éclairés, &amp; les plus zelées pour le ſervice de Dieu. Vos Magiſtrats, le Peuple, les Perſonnes qui ſavoient par coeur les Pſaumes de Marot, à qui l'apprehenſion de ne pouvoir pas apprendre par coeur cette nouvelle Edition; toutes ces choſes n'ont pas été capables de vous rebuter, Vous avez franchi toutes ces difficultes, &amp; aprés avoir fait connoître à vos ſages Magiſtrats la neceſſité &amp; l'utilité qu'il y avoit d'in<g ref="char:EOLhyphen"/>troduire dans vos Egliſes cette nou<g ref="char:EOLhyphen"/>velle Verſion, Vous leur avez auſſi allegué les principales raiſons, tirées, ou des Pſaumes mêmes, dans leſquels
+<pb n="44" facs="tcp:152862:29"/> il y avoit des mots &amp; des phraſes qui n'étoient plus en uſage, ou du mépris que nos Adverſaires de Rome en faiſoient, à cauſe de certaines ex<g ref="char:EOLhyphen"/>preſſions, qui ſont, à la verité, ru<g ref="char:EOLhyphen"/>des dans le ſiecle où nous ſommes. Aprés avoir agi avec tant de pru<g ref="char:EOLhyphen"/>dence, de ſageſſe, &amp; de zele il ne faloit pas moins attendre qu'un pareil ſuccez, &amp; Dieu vueille par ſa miſeri<g ref="char:EOLhyphen"/>corde infinie verſer de plus en plus ſes plus precieuſes benedictions ſur vos ſoins, &amp; ſur vôtre travail, &amp; faire reüſſir toutes vos entrepriſes à la gloire de nôtre Dieu, &amp; à l'a<g ref="char:EOLhyphen"/>vancement de la Reformation de ſon Egliſe. Nous ne doutons pas que vos Peuples, aprés avoir ſurmonté les premieres difficultés, ne ſe faſſent un ſenſible plaiſir de les chanter, d'autant mieux qu'il n'y a plus d'ex<g ref="char:EOLhyphen"/>preſſions qui ne ſoient naturelles &amp; faciles. Nous ſouhaiterions d'être en etat de vous pouvoir imiter, &amp; de nous conformer en cela, comme en
+<pb n="45" facs="tcp:152862:29"/> toute autre choſe, à vos Egliſes; Mais outre que nous n'avons pas la commodité d'avoir facilement des Pſaumes, &amp; qu'il faut d'ailleurs pre<g ref="char:EOLhyphen"/>parer nos Peuples à un pareil chan<g ref="char:EOLhyphen"/>gement, Nous croyons de plus, qu'il eſt neceſſaire de communiquer la choſe à nôtre Synode. Cependant nous vous ſommes ſenſiblement ob<g ref="char:EOLhyphen"/>ligés, de ce que vous avez bien vou<g ref="char:EOLhyphen"/>lu, nous communiquer, &amp; nous faire part de ce qui ſe paſſe dans vôtre Egliſe, à laquelle nous ſerons bien <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſes de nous conformer, &amp; d'entre<g ref="char:EOLhyphen"/>tenir cette étroite union qui a fait, &amp; qui fera la joye de nos Peuples, &amp; de nos Egliſes. Au reſte, nous avons en<g ref="char:EOLhyphen"/>voyé une copie de vôtre Lettre aux Egliſes qui compoſent avec nous un même Synode. Nous prions Dieu qu'il beniſſe de plus en plus vos tra<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aux, qu'il les faſſe reüſſir a ſa gran<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e gloire, à l'affermiſſement du Reg<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e de Jeſus Chriſt, &amp; à l'édification
+<pb n="46" facs="tcp:152862:30"/> de ſon Egliſe; qu'il diſſipe le con<g ref="char:EOLhyphen"/>ſeil de vos ennemis, &amp; qu'il répande de plus en plus la bonne odeur de vôtre doctrine par tous les endroits de la terre, Nous ſommes</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                           <signed>Vos tres-humbles &amp; tres-obeïſſans Serviteurs &amp; Fréres au Seig<g ref="char:EOLhyphen"/>neur, les Paſteurs &amp; les An<g ref="char:EOLhyphen"/>ciens de l'Egliſe Françoiſe de la nouvelle Ville d'Erlang, <hi>&amp; pour tous,</hi>
+                              <list>
+                                 <item>Michel <hi>Paſteur.</hi>
+                                 </item>
+                                 <item>E. Tholozan <hi>Paſteur.</hi>
+                                 </item>
+                                 <item>G. Ruynat <hi>Paſteur.</hi>
+                                 </item>
+                                 <item>Gabriel Lequezan.</item>
+                                 <item>C. Froment <hi>Diacre.</hi>
+                                 </item>
+                                 <item>P. Cappieu <hi>Ancien.</hi>
+                                 </item>
+                                 <item>Etienne Ferron <hi>Ancien.</hi>
+                                 </item>
+                                 <item>P. Lerny <hi>Ancien.</hi>
+                                 </item>
+                                 <item>Dalles <hi>Ancien, &amp; Secretaire.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                           <dateline>A Erlang <date>le 14. Mars. 1700.</date>
+                           </dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="47" facs="tcp:152862:30"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre des Egliſes Wallonnes du Païs-Bas aſſemblés en Synode à Zutphen.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorez Fréres,</salute>
+                        </opener>
+                        <p>LA Lettre que vous nous avez fait l'honneur de nous écri<g ref="char:EOLhyphen"/>re a été leuë à toute l'Aſſemblée de nôtre Synode, &amp; nous y avons remarqué avec beaucoup de con<g ref="char:EOLhyphen"/>ſolation, ce zéle inſeparable de vô<g ref="char:EOLhyphen"/>tre Egliſe qui a toûjours été d'un <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> grand exemple à toutes les au<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es; Mais comme l'affaire que <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ous nous propoſez eſt d'une trop grande importance pour y répon<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re ſi tôt determinément, vous ne <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rouverez pas mauvais, Meſſieurs, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ue nous la communiquions &amp; à <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>os Conſiſtoires, &amp; à d'autres Per<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>onnes ſages &amp; éclairées, avec d'au<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>es précautions que nous devons
+<pb n="48" facs="tcp:152862:31"/> garder en cetre occaſion; Nous pe<g ref="char:EOLhyphen"/>ſerons avec ſoin toutes vos raiſons, &amp; vous devez croire que nous y aurons tous les égards que nous leur devons, &amp; que vôtre exemple y ajoûtera un grand poids. Nous nous raſſemblerons, s'il plait à Dieu, dans quelques mois ſelon l'ordre de nos Synodes, &amp; nous aurons l'hon<g ref="char:EOLhyphen"/>neur de vous expliquer alors plus particulierement nos ſentimens. Ce<g ref="char:EOLhyphen"/>pendant la correſpondance que vous voulez entretenir avec nos Egliſes nous ſera toûjours fort agreable &amp; d'une fort grande édification, &amp; nous continuërons cependant à prier Dieu qu'il lui plaiſe de tenir toû<g ref="char:EOLhyphen"/>jours la Republique de Geneve ſous ſa ſainte Protection, d'y con<g ref="char:EOLhyphen"/>ſervir ſa verité, &amp; de la faire fleurir en toutes manieres; Nous le prions à même tems de benir le Troupeau &amp; l'illuſtre Academie dont il vous a commis le ſoin,
+<pb n="49" facs="tcp:152862:31"/> vos Perſonnes &amp; vos Familles, &amp; nous ſerons toûjours avec ces ſenti<g ref="char:EOLhyphen"/>mens,</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres honorés Fréres,</salute>
+                           <signed>Vos tres-humbles &amp; tres-o<g ref="char:EOLhyphen"/>beïſſans Serviteurs, les Conducteurs des Egliſes Wallonnes des Païs-Bas aſſemblez en Synode, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>Baſnage de Flottemanville <hi>Preſident.</hi>
+                                 </item>
+                                 <item>Oliver <hi>Secretaire.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="50" facs="tcp:152862:32"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Zell.</head>
+                        <opener>
+                           <dateline>A Zell <date>ce 5. Mai 1700.</date>
+                           </dateline>
+                           <salute>Meſſieur, &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>NOus commencerons par vous remercier tres-humblement de l<g ref="char:punc">▪</g>honneur qu'il vous a plû de nous faire, en nous apprenant l'heureux établiſſement de la nouvelle traducti<g ref="char:EOLhyphen"/>on de nos Pſaumes en vos Egliſes. Comme celle de Geneve a toûjours été regardée avec diſtinction de tous les Reformez, vous nous ferés ju<g ref="char:EOLhyphen"/>ſtice, Meſſieurs, de croire que dans nôtre diſperſion nous avons pour el<g ref="char:EOLhyphen"/>le les mêmes égards &amp; les mêmes ſentimens d'eſtime que nous avions en France, quand nous y étions en liberté; que nous ferons beaucoup d'attention à ce qui nous viendra d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> vôtre part, &amp; que nous nous faiſo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> un honneur de la ſainte correſpon<g ref="char:EOLhyphen"/>dance que vous témoignez vouloi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <pb n="51" facs="tcp:152862:32"/> entretenir avec nous. Nous ſavons qu'une Compagnie comme la vôtre, compoſée de tant d'habiles gens, dont le ſavoir &amp; l'érudition répon<g ref="char:EOLhyphen"/>dent ſi bien au grand zele qu'ils ont pour la gloire de Dieu, &amp; dont la foi &amp; le culte ont une reputation ſi avantageuſe dans tout le monde où nôtre Reformation eſt reçeuë, ne peut prendre que de juſtes meſures pour le Service divin. Ses avis pour nous ſont d'un grand poids. Celui que vous nous donnez, Meſſieurs, de ce qu'aprés les difficultés que vous avez rencontrées, dans l'affaire de que<g ref="char:EOLhyphen"/>ſtion, vos deſſeins on eu le ſuccés que vous ſouhaittiez, nous a fait reſ<g ref="char:EOLhyphen"/>ſentir beaucoup de joye. Si la choſe dépendoit abſolument de nous, nous aurions déja ſuivi vôtre exemple. Nous ne deſeſperons pas n'en être les, imitateurs, s'il plait à Dieu, avec le tems. Vous trouvez peut-étre, Meſſieurs, que nous avons trop dif<g ref="char:EOLhyphen"/>feré à répondre à l'excellente Lettre
+<pb n="50" facs="tcp:152862:33"/>
+                           <gap reason="duplicate" resp="#OXF" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="51" facs="tcp:152862:33"/>
+                           <gap reason="duplicate" resp="#OXF" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="52" facs="tcp:152862:34"/> dont vous nous avez honoré. Ce n'eſt ni la negligence, ni le manque de reconnoiſſance qui nous ont empêché de nous aquitter de nôtre devoir; C'eſt ſeulement parce que nous a<g ref="char:EOLhyphen"/>vons voulu la communiquer aux Egli<g ref="char:EOLhyphen"/>ſes voiſines, &amp; ſur tout à celles qui ſont dans les Etats de Noſſeigneurs les Princes de Brunſwick. Vous ap<g ref="char:EOLhyphen"/>prendrez ſans doute avec conſolation, que ſi Monſeigneur l'Electeur de ce nom à parmis à l'Egliſe d'Hanover d'avoir un Temple, s'il en a fait bâtir un à ſes dépens, en faveur de la colonie Françoiſe d'Hameln, Son Al<g ref="char:EOLhyphen"/>teſſe Sereniſſime Monſeigneur le Duc nôtre Maître nous a accordé la liberté d'en édifier un à Zell, &amp; nous a même fait ſentir pour cette fin, les effets de ſa liberalité. Nous y faiſons travailler actuellement; Mais nos forces ſont trop petites, pour venir à bout de nôtre projet ſans ſecours d'ailleurs. Nous avions deputé en An<g ref="char:EOLhyphen"/>gleterre &amp; en Hollande pour en de<g ref="char:EOLhyphen"/>mander;
+<pb n="53" facs="tcp:152862:34"/> la conjoncture ne nous a pas été favorable, Nous avons fait de la dépenſe inutilement, ce qui nous cauſe un retardement pour jouïr du fruit de nos eſperances. C'auroit été au tems de nôtre établiſſement nouveau que nous aurions pû, à vôtre imitation, introduire l'uſage de nos Pſaumes de la nouvelle reviſion. Ces Meſſieurs nos Freres à qui nous a<g ref="char:EOLhyphen"/>vons fait part de vos fortes raiſons, en ſont touchez comme nous, &amp; tom<g ref="char:EOLhyphen"/>bent d'accord que ſi nous pouvons reüſſir, la choſe ſera d'une tres-grande édification. Il eſt vrai, Meſſieurs, que nous prévoyons les uns &amp; les autres, que nous pourrons trouver en nôtre chemin les mêmes obſtacles que vous y avez rencontré d'abord. Dieu vueille benir cette glorieuſe entrepri<g ref="char:EOLhyphen"/>ſe, qui n'a pour but que ſon honneur, &amp; la conſolation des Fideles, Nous le prions de tout nôtre coeur qu'il ré<g ref="char:EOLhyphen"/>pande de plus en plus ſes plus preci<g ref="char:EOLhyphen"/>euſes faveurs du Ciel &amp; de la terre ſur
+<pb n="45" facs="tcp:152862:35"/> vos Perſonnes, ſur vos Familles, &amp; ſur la floriſſante Egliſe qu'il a com<g ref="char:EOLhyphen"/>miſe à vôtre conduite. Nous ſommes avec un profond reſpect</p>
+                        <closer>
+                           <salute>Meſſieurs nos tres-honorés Fréres,</salute>
+                           <signed>Vos tres-humbles &amp; tres-obeïſſans Serviteurs &amp; Fréres en N. S. J. Ch. les Paſteurs &amp; les Anciens de l'Egliſe Françoiſe Re<g ref="char:EOLhyphen"/>formée de Zell, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>De la Foreſt <hi>Paſteur.</hi>
+                                 </item>
+                                 <item>De la Fortiere Maxuel <hi>Ancien.</hi>
+                                 </item>
+                                 <item>De Vilars Maloſtie <hi>Ancien.</hi>
+                                 </item>
+                                 <item>D. Caulier <hi>Ancien.</hi>
+                                 </item>
+                                 <item>Monroy <hi>Ancien.</hi>
+                                 </item>
+                                 <item>Burjandy <hi>Ancien.</hi>
+                                 </item>
+                                 <item>R. Sioff <hi>Ancien.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="55" facs="tcp:152862:35"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe de Neuchâtel.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorez Fréres,</salute>
+                        </opener>
+                        <p>SI nous avons differé juſques à preſent de répondre à vôtre Letrre du douziéme Janvier, ça été parce que nous n'aurions pû vous donner plus tôt une réponſe préciſe, ſur l'introduction des Pſaumes nou<g ref="char:EOLhyphen"/>veaux. Nôtre Compagnie qui avoit regardé depuis long-tems cette in<g ref="char:EOLhyphen"/>troduction comme tres-neceſſaire, pour la gloire de Dieu, pour l'édifica<g ref="char:EOLhyphen"/>tion de l'Egliſe, &amp; pour l'honneur de la Reformation, a pris la reſoluti<g ref="char:EOLhyphen"/>on de faire ce changement avec d'autant plus de plaiſir, qu'elle y a été invitée par vôtre Venerable Com<g ref="char:EOLhyphen"/>pagnie. Nous vous dirons donc, Meſſieurs &amp; tres-honorez Fréres, que dans nôtre Aſſemblée du mois de May dernier, il fût arrêté que les Pſaumes de la nouvelle Verſion ſe<g ref="char:EOLhyphen"/>roient
+<pb n="56" facs="tcp:152862:36"/> introduits dans l'uſage publick de toutes les Egliſes de ce Païs, &amp; que depuis, ayant conferé avec Meſſieurs les Magiſtrats de la Ville de Neuchâtel, pour ce qui regarde l'Egliſe de Neuchâtel en particulier, à l'égard du tems auquel ce chan<g ref="char:EOLhyphen"/>gement pourroit ſe faire, nous avons reſolu dans nôtre Aſſemblée d'au<g ref="char:EOLhyphen"/>jourd'huy que ce ſeroit le premier Dimanche du mois d'Août prochain. C'eſt dequoi nous n'avons pas voulu manquer de vous avertir, &amp; en mê<g ref="char:EOLhyphen"/>me tems nous vous remercions, Meſſieurs, &amp; tres-honorez Fréres, de la Lettre que vous nous avez écrite ſur ſe ſujet. Nous vous prions d'être perſuadez que nous aurons toûjours une conſideration particuliere pour vôtre Egliſe, &amp; que nous ne ſouhait<g ref="char:EOLhyphen"/>tons rien tant, que d'entretenir avec vous une parfaite union, &amp; une é<g ref="char:EOLhyphen"/>troite correſpondance. Nous adreſ<g ref="char:EOLhyphen"/>ſons nos voeux à Dieu, pour qu'il répande ſur vôtre ſainte Aſſemblée,
+<pb n="57" facs="tcp:152862:36"/> &amp; ſur vos Egliſes ſes plus precieuſes <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>eurs, &amp; nous ſommes avec beau<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>up de zele &amp; d'attachement</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                           <dateline>Neuchâtel <date>le 5. Juin 1700.</date>
+                           </dateline>
+                           <signed>Vos tres-humbles &amp; tres-obeïſſans Serviteurs &amp; Fréres, le Doyen &amp; les Paſteurs de la Souve<g ref="char:EOLhyphen"/>raineté de Neuchâtel &amp; Vallengin.
+<list>
+                                 <item>Oſtervald <hi>Doyen.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="58" facs="tcp:152862:37"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Schaffouſe.</head>
+                        <opener>
+                           <dateline>A Schaffouſe <date>ce 26. Juin 1700.</date>
+                           </dateline>
+                           <salute>Meſſieurs nos tres-honorés Fréres en J Chriſt,</salute>
+                        </opener>
+                        <p>NOus aurions répondu plutôt à celle que vôtre Venerable Compagnie nous fit l'honneur de nous écrire il y a déja quelque tems, ſi Nos Seigneurs du Senat Eccleſi<g ref="char:EOLhyphen"/>aſtique euſſent eu occaſion de s'aſſem<g ref="char:EOLhyphen"/>bler plutôt qu'ils ne l'ont pas fait, &amp; s'ils euſſent répondu à la tres-hum<g ref="char:EOLhyphen"/>ble demande que nous leur avions faite de permettre qu'à vôtre imita<g ref="char:EOLhyphen"/>tion nous puſſions nous ſervir dans nôtre petit Troupeau des Pſaumes de la nouvelle Reviſion; Mais com<g ref="char:EOLhyphen"/>me ils ne s'aſſemblent que pour quel<g ref="char:EOLhyphen"/>que
+<pb n="59" facs="tcp:152862:37"/> cas extraordinaire, nous n'a<g ref="char:EOLhyphen"/>vons pas pû avoir la ſatisfaction que nous-nous étions propoſée auſſi prontement que nous l'auri<g ref="char:EOLhyphen"/>ons ſouhaitté. Nous vous ſuppli<g ref="char:EOLhyphen"/>ons pour cet effet, Meſſieurs nos tres-honorés Fréres, de nous par<g ref="char:EOLhyphen"/>donner nôtre irregularité apparen<g ref="char:EOLhyphen"/>te, &amp; d'être fortement perſuadez, que nous recevrons toûjours a<g ref="char:EOLhyphen"/>vec beaucoup de conſideration &amp; de reſpect tout ce qui viendra de vôtre part, &amp; que nous nous ferons un plaiſir de profiter de vos ſages conſeils &amp; de vos lu<g ref="char:EOLhyphen"/>mierés. Nous avons appris avec beaucoup de plaiſir que Dieu a répandu ſa benediction ſur vôtre pieux deſſein, &amp; que tous vos troupeaux ſe trouvent édifiez du changement avantageux que vous leur avez procuré. Les réflexi<g ref="char:EOLhyphen"/>ons que vous faites, Meſſieurs nos tre-honorés Fréres, ſur la neceſ<g ref="char:EOLhyphen"/>ſité
+<pb n="60" facs="tcp:152862:38"/> de ce changement, étoient trop ſolides, pour n'être pas ſecondées par vôtre ſage Magiſtrat, &amp; ap<g ref="char:EOLhyphen"/>prouvées de toutes les perſonnes raiſonnables de nôtre Sainte com<g ref="char:EOLhyphen"/>munion; auſſi n'avons nous point eu de peine d'obtenir nôtre demande de Nos Seigneurs du Senat Eccle<g ref="char:EOLhyphen"/>ſiaſtique, qui nous ont accordé unanimement la permiſſion de chan<g ref="char:EOLhyphen"/>ter dans nos Aſſemblées les Pſau<g ref="char:EOLhyphen"/>mes de Monſieur Conrart, de ſorte que nous eſperons de les introduire ſans peine dans nótre aſſemblée; En attendant donc que le Seigneur beniſſe nôtre reſolution, comme il a beni la vôtre, nous le ſupplions du plus profond de nos coeurs, qu'il lui plaiſe d'accompagner toûjours de l'efficace de ſa grace les ſaintes fonctions de vôtre Miniſtere &amp; de vos emplois, &amp; qu'il conſerve che<g ref="char:EOLhyphen"/>rement vos Perſonnes, &amp; vos Fa<g ref="char:EOLhyphen"/>milles, &amp; aprées vous avoir demandé
+<pb n="61" facs="tcp:152862:38"/> la continuation de vôtre bienveuil<g ref="char:EOLhyphen"/>lance, nous vous prions d'être per<g ref="char:EOLhyphen"/>ſuadez que nous ſommes avec un tres-profond reſpect</p>
+                        <closer>
+                           <salute>Meſſieurs nos tres-honoréz Fréres,</salute>
+                           <signed>Vos tres-humbles &amp; tres-obeïſſans Serviteurs
+<list>
+                                 <item>Bouſanquet <hi>Paſteur de l'Egliſe Françoiſe de Schaffouſe.</hi>
+                                 </item>
+                                 <item>Trappier <hi>Ancien.</hi>
+                                 </item>
+                                 <item>Etienne Grimaud <hi>Ancien.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="62" facs="tcp:152862:39"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Caſſel.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>NOus vous remercions tres-hum<g ref="char:EOLhyphen"/>blement de l'excellente Let<g ref="char:EOLhyphen"/>tre que vous nous avez fait l'hon<g ref="char:EOLhyphen"/>neur de nous écrire touchant l'uſage de la nouvelle Verſion des Pſaumes de David en vers François dans le Service divin, &amp; nous vous prions de croire que ce n'a été nullement par negligence que nous n'y avons pas répondu plutôt, mais que ce délay eſt venu de quelques autres cauſes qui nous ont arrêtez juſques à cette heure. C'eſt avec un ſingu<g ref="char:EOLhyphen"/>lier plaiſir, Meſſieurs, que nous vous y voyons renouveller l'agrea<g ref="char:EOLhyphen"/>ble correſpondance qu'il y a toûjours eu entre Vous &amp; les Egliſes de France dont nous faiſions partie
+<pb n="63" facs="tcp:152862:39"/> &amp; la maniere en laquelle vous les honorez &amp; leurs Synodes, en ap<g ref="char:EOLhyphen"/>prouvant &amp; accompliſſant même a<g ref="char:EOLhyphen"/>vec tant de ſuccez parmi vous le deſ<g ref="char:EOLhyphen"/>ſein qu'elles avoient formé d'intro<g ref="char:EOLhyphen"/>duire dans leurs ſaintes Aſſemblées cette nouvelle traduction des hymnes ſacrez, ſi capable d'exciter la devo<g ref="char:EOLhyphen"/>tion dans les coeurs, &amp; d'enlever les ames pieuſes par la pureté &amp; la be<g ref="char:EOLhyphen"/>auté &amp; la force des ſes expreſſions. Les raiſons qui vous y ont determi<g ref="char:EOLhyphen"/>nez ſont tres-convainquantes, &amp; vô<g ref="char:EOLhyphen"/>tre exemple ne peut être que d'un grand poids pour engager les Egliſes Françoiſes à le ſuivre dans les divers endroits de leur diſperſion. Pour nous, Meſſieurs, nous ſommes tout à fait dans la reſolution de vous imiter, &amp; nous le ferons d'autant plus volon<g ref="char:EOLhyphen"/>tiers, que nous avions ce change<g ref="char:EOLhyphen"/>ment, ſi utile &amp; ſi neceſſaire, extré<g ref="char:EOLhyphen"/>mement à coeur dés avant ce terrible coup de perſecution qui nous a arra<g ref="char:EOLhyphen"/>chez à nôtre partie, &amp; que nous en
+<pb n="64" facs="tcp:152862:40"/> eſperons une grande édification. Toutes les Egliſes Refugiées de ce Païs ci, à qui nous avons commu<g ref="char:EOLhyphen"/>niqué vôtre Lettre, ſont auſſi dans la diſpoſition de s'y conformer; &amp; nous avons même deſſein de nous ſer<g ref="char:EOLhyphen"/>vir de la Verſion que vous employez dans vos exercices publics de pieté, &amp; d'en faire venir d'abord quelques exemplaires de toutes les ſortes pour eſſay. Au reſte, Meſſieurs, ce nous ſera toûjours une choſe tres-douce &amp; tres-conſolante dans nôtre refuge, que l'étroite union que vous témoignez de vouloir entretenir avec nous, &amp; nous contribuerons de toutes nos forces à en ſerrer les noeuds &amp; à la rendre inviolable. Nous prions Dieu de tout nôtre coeur de vous combler de toutes ſes benedictions ſpirituelles &amp; temporelles, de conſerver &amp; de groſſir vos troupeaux, de maintenir à jamais au milieu d'eux la pureté de la doctrine &amp; du culte divin, cette perle de grand prix dont ils ſont en<g ref="char:EOLhyphen"/>richis,
+<pb n="65" facs="tcp:152862:40"/> &amp; de rendre vôtre Academie toûjours celebre &amp; floriſſante, Ce ſont les voeux de ceux pui ſont tres-ſincerement</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                           <dateline>A Caſſel en Heſſe <date>le 27. Juillet 1700.</date>
+                           </dateline>
+                           <signed>Vos tres-humbles &amp; tres-obeïſ<g ref="char:EOLhyphen"/>ſans Serviteurs &amp; Fréres au Seigneur, les Paſteurs &amp; les Anciens de l'Egliſe Fran<g ref="char:EOLhyphen"/>çoiſe de Caſſel, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>De Beaumont <hi>Moderateur.</hi>
+                                 </item>
+                                 <item>P. Nalvezin <hi>Ancien.</hi>
+                                 </item>
+                                 <item>Paul Papin <hi>Ancien &amp; Secretaire.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="66" facs="tcp:152862:41"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre des Egliſes Françoiſes de Londres.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>JE m'aquitte avec plaiſir de l'em<g ref="char:EOLhyphen"/>ploy que me donnent nos Egliſes Françoiſes de Londres, de vous remercier de leur part de la tendre &amp; fraternellé charité que vous leur témolgnez dans vôtre Lettre, &amp; des ſoins obligeans que vous avez pris de nous donner connoiſſance de ce qui s'eſt paſſé dans vôtre Egliſe, à l'occaſion des Pſaumes de Monſieur Conrart retouchez de vôtre façon, que vous avez mis à la place de ceux que vous chantiez auparavant. On a regardé cela comme un coup de vôtre zele à garder toute la bienſe<g ref="char:EOLhyphen"/>ance, qu il ſe peut, dans le Service divin, &amp; vous pouvez conter que nous ferons toute la conſideration qu'il
+<pb n="67" facs="tcp:152862:41"/> ſe pourra de vôtre exemple dans les penchans où nous ſommes, comme nous l'avons toûjours été, de nous entretenir avec vous dans l'unité de l'eſprit, par les liens de la paix. Ce<g ref="char:EOLhyphen"/>pendant comme c'eſt une affaire de conſequence, dans laquelle toutes nos Egliſes prennent un intereſt general, Nous avons crû, ce que nous vous ſupplions de ne pas trouver mauvais, ne pas devoir prendre de reſolution, ſans avoir là deſſus les ſentimens de nos Fréres de Hollande, &amp; de Bran<g ref="char:EOLhyphen"/>debourg, afin de nous rencontrer, s'il ſe peut, dans une uniformité gene<g ref="char:EOLhyphen"/>rale, ſans laquelle nous ne penſons pas qu'on puiſſe rien changer. On a même ſouhaitté, que je vous en<g ref="char:EOLhyphen"/>voye une copie de l'Acte, qui fut fait dans la derniere Aſſemblée, que nous avons tenuë à la Savoye. Aprés quoi je finis par mille voeux que nous faiſons pour vôtre Egliſe, &amp; pour le nouvel établiſſement qu'elle vient de faire, demandant à Dieu
+<pb n="68" facs="tcp:152862:42"/> qu'il lui plaiſe de répandre ſes préci<g ref="char:EOLhyphen"/>euſes benedictions ſur vos Perſonnes, &amp; ſur vos occupations qui ſont ſi édifiantes &amp; ſi utiles au public. Je ſuis en mon particulier, avec tout le reſpect que je dois</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                           <dateline>
+                              <date>9. Août 1700.</date>
+                           </dateline>
+                           <signed>Vôtre tres-humble &amp; tres-o<g ref="char:EOLhyphen"/>beïſſant Serviteur
+<list>
+                                 <item>Brocas de Hondeſplens <hi>Min.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="69" facs="tcp:152862:42"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre des Egliſes Wallonnes des Païs-Bas aſſemblées en Synode à Rotterdam.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>VOus avez pû voir par la Let<g ref="char:EOLhyphen"/>tre qui vous a été écrite au nom du Synode de nos Egliſes aſſemblé à Zutphen, &amp; par l'Ar<g ref="char:EOLhyphen"/>ticle qui y fut dreffe ſur l'affaire que vous avez bien voulu nous communiquer, qu'on y avoit reſolu de s'appliquer avec toute l'attenti<g ref="char:EOLhyphen"/>on poſſible, à examen de la cho<g ref="char:EOLhyphen"/>ſe dont vous nous donniez conno<g ref="char:EOLhyphen"/>iſſance. Nous avons ſatisfait au<g ref="char:EOLhyphen"/>jourduy aux intentions de cette Aſſemblée, &amp; aprés avoir conſide<g ref="char:EOLhyphen"/>ré toutes choſes, il nous a ſemblé, que nous aurions reçû plus de conſolation, &amp; plus de ſatisfaction
+<pb n="70" facs="tcp:152862:43"/> de vos Lettres, ſi conformément aux principes de la charité &amp; de la Communion fraternelle, dont vous avez jugé à propos de nous donner ce témoignage, vous nous aviez communiqué le deſſein que vous aviez de mettre une Verſion nouvelle des Pſaumes en la place de ceux qui ont été, juſques à preſent, chantez dans nos Egliſes, plutôt que l'execution. Cela nous auroit donné occaſion de conferer avec vous ſur une matiere ſi im<g ref="char:EOLhyphen"/>portante, &amp; de concourir avec vous par la communication mutuelle dé nos raiſons à ce qui auroit été le plus utile pour l'édification commu<g ref="char:EOLhyphen"/>ne de l'Egliſe de Jeſus Chriſt. Mais, Meſſieurs &amp; tres-honorés Freres, puis que la choſe eſt faite, nous nous perſuadons aiſément, que vous n'avez rien fait qu'avec de bonnes intentions, &amp; en ſimplicité de coeur, &amp; aprés avoir bien mûrement ex<g ref="char:EOLhyphen"/>aminé
+<pb n="71" facs="tcp:152862:43"/> ce principe, que dans la Re<g ref="char:EOLhyphen"/>ligion les moindres changemens ſont de tres-grande importance. De nô<g ref="char:EOLhyphen"/>tre côté aprés avoir penſé à la cho<g ref="char:EOLhyphen"/>ſe tres-ſerieuſement, nous avons pris ſur cette affaire la reſolution que vous verrés portée dans l'Article du preſent Synode dont nous vous en<g ref="char:EOLhyphen"/>voyons la Copie, pour répondre par la communication de nos ſen<g ref="char:EOLhyphen"/>timens, à celle que vous nous avez donnée des vôtres. Les raiſons que que nous avons euës de nous porter a cet avis ſeroient trop longues à vous repreſenter; Comme nous vous faiſons la juſtice de croire que vous n'avez eu en veuë que l'édifica<g ref="char:EOLhyphen"/>tion publique dans ce que vous avez fait; Nous eſperons auſſi que vous nous ferez celle de juger, que nous avons été déterminez par de puiſſans motifs au parti que nous avons pris. Nous prions Dieu qu'il vous donne la joye de voir proſperer ſon oeuvre
+<pb n="72" facs="tcp:152862:44"/> entre vos mains, &amp; qu'il beniſſe a<g ref="char:EOLhyphen"/>bondamment vos Perſonnes &amp; vos Egliſes. Nous ſommes</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres honorés Fréres,</salute>
+                           <dateline>De Rotterdam <date>le 6/16 de Septembre 1700.</date>
+                           </dateline>
+                           <signed>Vos tres-humbles &amp; obe<g ref="char:EOLhyphen"/>ïſſans Serviteurs les Con<g ref="char:EOLhyphen"/>ducteurs des Egliſes Wal<g ref="char:EOLhyphen"/>lonnes aſſemblées en Sy<g ref="char:EOLhyphen"/>node à Rotterdam, <hi>&amp; pour tous,</hi>
+                              <list>
+                                 <item>Jurieu <hi>Préſident.</hi>
+                                 </item>
+                                 <item>De Joncourt <hi>Scribe.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="73" facs="tcp:152862:44"/>
+                  <floatingText xml:lang="fre" type="articles">
+                     <body>
+                        <div n="21" type="article">
+                           <head>ARTICLE XXI.</head>
+                           <p>SUR l'affaire importante ren<g ref="char:EOLhyphen"/>voyée aux Egliſes par l'Art. 39. du Synode precedent, touchant le changement propoſe, d'une nouvelle Verſion des Pſaumes pour le ſervice public; Les inſtructions de toutes les Egliſes ayant été leuës hier. La Compagnie a reſolu d'une voix preſ<g ref="char:EOLhyphen"/>que unanime, les deux choſes aux<g ref="char:EOLhyphen"/>quelles elle s'arrête ſous le bon plaiſir de nos <hi>SOUVERAINS.</hi> La premiere, de n'introduire point l'uſage d'une nouvelle Verſion dans nos Egli<g ref="char:EOLhyphen"/>ſes Wallonnes, &amp; qu'il y auroit des inconveniens &amp; des difficultez conſi<g ref="char:EOLhyphen"/>derables à le faire. La ſeconde, qu'il eſt deformais d'une eſpece de neceſſitê de retoucher &amp; de corriger dans nôtre ancienne Verſion pluſieurs termes qui ne ſont plus entendus, &amp; pluſieurs façons de parler, que le cours d<g ref="char:punc">▪</g>un
+<pb n="74" facs="tcp:152862:45"/> ſiecle &amp; demi, &amp; les changemens de l'uſage ont rendu choquantes &amp; incommodes. C'eſt pourquoi la Com<g ref="char:EOLhyphen"/>pagnie a jugé à propos de commettre ſe ſoin de cette correction aux Egliſes de Rotterdam, d'Amſterdam, de la Haye, de Leyde, &amp; de Delft, com<g ref="char:EOLhyphen"/>me plus voiſines &amp; plus proches de la Cour, ſous ces reſtrictions &amp; ces li<g ref="char:EOLhyphen"/>mitations. 1. Que l'on conſervera tout le fonds de la Verſion ancienne. 2. Que l'on ne ſortira point des anci<g ref="char:EOLhyphen"/>ennes rimes, que quand la correction ſera abſolument neceſſaire, &amp; que l'on ne pourra corriger autrement. 3. Que l'on ne ſe propoſera point dans ces corrections le but de les metre au deſ<g ref="char:EOLhyphen"/>ſus de toute critique; ſe qui ſeroit une tâche impoſſible en travaillant ſur un vieux fonds, &amp; en s'aſſujettiſſant à des vieilles rimes; mais ſeulement de rendre moins rude ce qui l'eſt au<g ref="char:EOLhyphen"/>jourdui davantage. Et tous ceux qui auront des avis à leur donner pourront leur envoyer des remarques.
+<pb n="75" facs="tcp:152862:45"/> Et au Synode prochain, elles rendront conte de ce qui aura été fait. Et la preſente reſolution ſera commu<g ref="char:EOLhyphen"/>niquée par les Deputez aux Vene<g ref="char:EOLhyphen"/>rables Magiſtrats de leurs Villes, &amp; particulierement à Monſieur le Con<g ref="char:EOLhyphen"/>ſeiller &amp; Grand Penſionnaire Hein<g ref="char:EOLhyphen"/>ſius, à qui Monſieur Jurieu Pré<g ref="char:EOLhyphen"/>ſident, &amp; Monſieur De Joncourt Scribe, avec Monſieur Benoit Pa<g ref="char:EOLhyphen"/>ſteur de l'Egliſe de Delft, en feront le rapport.</p>
+                        </div>
+                        <div n="32" type="article">
+                           <pb n="76" facs="tcp:152862:46"/>
+                           <head>ARTICLE XXXII.</head>
+                           <p>EN conſequence de l'Article 23. du preſent Synode, qui a chargé cinq Egliſes pour la Correction des Pſaumes; Les Deputez de ces Egli<g ref="char:EOLhyphen"/>ſes ſont autoriſez de s'accorder en<g ref="char:EOLhyphen"/>tr'eux de la portion qui écherra à chaque Egliſe, &amp; de la maniere de correſpondre entr'elles pour l'éx<g ref="char:EOLhyphen"/>écution de ce deſſein.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+                  <pb n="77" facs="tcp:152862:46"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Dublin.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>SI nous avons differé juſques à preſent, à faire réponſe à la belle Lettre dont vous nous a<g ref="char:EOLhyphen"/>vez honorez, c'eſt parce qu'en vous en temoignant nôtre recon<g ref="char:EOLhyphen"/>noiſſance, nous voulions en mê<g ref="char:EOLhyphen"/>me tems vous informer, &amp; de nos meſures pour reüſſir dans un deſſein, que vous avez vous mê<g ref="char:EOLhyphen"/>mes ſi heureuſement executé, &amp; de ce qui peut nous en promet<g ref="char:EOLhyphen"/>tre un favorable ſuccez. Voici donc, Meſſieurs &amp; tres-honorez Fréres, ce que nous avons fait. Aprés avoir lû vôtre Lettre, &amp; peſé les raiſons que vous y de<g ref="char:EOLhyphen"/>duiſez avec tant de netteté, &amp;
+<pb n="78" facs="tcp:152862:47"/> tant de force, nous avons jugé tous d'un accord, qu'il faloit à vôtre imitation travailler à intro<g ref="char:EOLhyphen"/>duire dans nôtre Service, la nou<g ref="char:EOLhyphen"/>velle Traduction des Pſaumes. La maniere dont vous nous mar<g ref="char:EOLhyphen"/>quez que Dieu a beni vôtre pieuſe intention, nous a fait eſperer que nous pourrions reüſſir dans la nô<g ref="char:EOLhyphen"/>tre, qui n'a tout de même pour but, que la plus grande conſola<g ref="char:EOLhyphen"/>tion de nôtre Peuple. Nous a<g ref="char:EOLhyphen"/>vons crû d'abord qu'il étoit à propos de rendre vôtre. Lettre publique, afin que chacun entrant par lui-même dans les raiſons de bienſeance, d'utilité &amp; ſans crain<g ref="char:EOLhyphen"/>dre d'en trop dire, de neceſſité, qui y ſont ſi bien propoſées, nous nous viſſions delivrez de ces pre<g ref="char:EOLhyphen"/>miéres difficultez que les préjugez font naître. Enſuite nous avons écrit à toutes les Egliſes Françoiſes de ce Royaume, tant pour leur
+<pb n="79" facs="tcp:152862:47" rendition="simple:additions"/> communiquer nôtre deſfein, que pour les ſolliciter à y entrer, a<g ref="char:EOLhyphen"/>fin que le concert &amp; l'unanimité de nos ſentimens rende la choſe plus autentique &amp; plus édifiante. Les Réponſes que nous avons re<g ref="char:EOLhyphen"/>ceuës de ces Egliſes, ſont telles que nous les pouvions ſouhaitter: Il faut ajoûter, ce qui n'eſt pas d'une petite importance, qu'ayant conſulté nôtre illuſtre Gouverneur My lord Gallway, nous avons eu la joye de nous voir hautement approuvez de ſon Excellence. Tout s'achemine, comme vous voyez, à l'éxecution de nôtre entrepriſe. S'i ſe rencontre quelque obſtacle, apparemment il nous viendra de dehors, &amp; c'eſt l'Exemple; mais comme nous pourrons oppoſer Ex<g ref="char:EOLhyphen"/>emple à Exemple, nous eſperons pouvoir lever cette derniere diffi<g ref="char:EOLhyphen"/>té. Au reſte, Meſſieurs &amp; tres-honorez Fréres, Nous ſommes ravis
+<pb n="80" facs="tcp:152862:48"/> de pouvoir vous donner dans cet<g ref="char:EOLhyphen"/>te occaſion un témoignage public du deſir ſincere que nous avons d'entretenir avec vous une bonne &amp; Chrêtienne correſpondance. La difference qui nous diſtingue ne ſera jamais capable de nous ſe<g ref="char:EOLhyphen"/>parer. Nous regarderons toûjours Geneve comme le centre de nôtre Réformation, &amp; les dignes Paſteurs &amp; Docteurs, dont Dieu la favoriſe par une ſuite continuelle de ſes graces ſur elle, comme d'excellens Ouvriers, avec qui nous nous fe<g ref="char:EOLhyphen"/>rons toûjours un honneur &amp; un devoir de travailler à l'interêt com<g ref="char:EOLhyphen"/>mun de l'Egliſe. Ce ſont là, Meſſieurs &amp; tres-honorez Fréres, nos vrais ſentimens, que nous ac<g ref="char:EOLhyphen"/>compagnons de nos prieres les plus ardentes pour la conſervation de vôtre Egliſe, &amp; de vôtre Acade<g ref="char:EOLhyphen"/>mie, pour la benediction de vos travaux, &amp; pour la paix ſpirituelle
+<pb n="81" facs="tcp:152862:48"/> &amp; temporelle de chacun de vous en particulier. Nous ſommes avec tou<g ref="char:EOLhyphen"/>te ſorte de reſpect</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                           <dateline>A Dublin <date>le 10. Septem<g ref="char:EOLhyphen"/>bre V. S. 1700.</date>
+                           </dateline>
+                           <signed>Vos tres humbles &amp; tres obe<g ref="char:EOLhyphen"/>iſſans Serviteurs &amp; Freres en Jeſus Chriſt, les Mini<g ref="char:EOLhyphen"/>ſtres &amp; les Anciens de l'Egli<g ref="char:EOLhyphen"/>ſe Françoiſe de Dublin qui s'aſſemble à S. Patrick, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>G. Barbier <hi>Miniſtre.</hi>
+                                 </item>
+                                 <item>Verdelles <hi>Secretaire.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="82" facs="tcp:152862:49"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Seconde Lettre de l'Egliſe Françoiſe de Baſle.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorez Fréres,</salute>
+                        </opener>
+                        <p>COmme nous vous informâmes au mois de Feurier dernier, que nous avions pris la reſolution d'intro<g ref="char:EOLhyphen"/>duire dans nôtre Egliſe l'uſage de la Verſion des Pſaumes de la nouvelle Reviſion, de l'avis des Theologiens de cette Univerſité, &amp; par la permiſ<g ref="char:EOLhyphen"/>ſion de nôtre Souverain Magiſtrat, Nous avons crû vous devoir informer auſſi de l'heureux ſuccez dont elle a été ſuivie, puis que c'eſt ſur vôtre in<g ref="char:EOLhyphen"/>dication &amp; à vôtre exemple que nous avons fait ce changement. Nous vous dirons donc, Meſſieurs &amp; tres-hono<g ref="char:EOLhyphen"/>rez Fréres, qu'aprés avoir fait vénir quelque nombre de ces Pſaumes, &amp; avoir ainſi facilité aux Membres de nôtre Troupeau les moyens d'en a<g ref="char:EOLhyphen"/>voir, nous publiâmes en Chaire la reſolution qui avoit été priſe à cet
+<pb n="83" facs="tcp:152862:49"/> égard, avec les plus fortes raiſons, qui nous y avoient determinez, &amp; qui furent goûtées de chacun; que nous laiſſames l'eſpace de quatre ſe<g ref="char:EOLhyphen"/>maines depuis cette publication avant que de les chanter, afin de donner à nôtre peuple le temsde s'en pourvoir, &amp; celui de s'y accoûtumer, en les chantant par avance dans les maiſons, comme il y il fut exhorté; &amp; qu'en<g ref="char:EOLhyphen"/>fin au bout de ce tems, le Dimanche 6. de ce mois d'Octobre nous avons commencé de nous ſervir publique<g ref="char:EOLhyphen"/>ment de cette nouvelle Verſion. Elle s'eſt introduite avec tant de facilité &amp; tant de ſuccez, que nous ne pou<g ref="char:EOLhyphen"/>vons qu'en rendre graces à Dieu. Tout le monde, a peu de perſonnes prés, quoy que nous euſſions dit pub<g ref="char:EOLhyphen"/>liquement, que nous ne pretentions contraindre qui que ce ſoit, les chanta dés la premiere fois Il n'y eut ny diſſonance ny confuſion dans le chant &amp; la choſe depuisquatre ſemaines con<g ref="char:EOLhyphen"/>tinue ſur ce pied par la grace de Dieu.
+<pb n="84" facs="tcp:152862:50"/> Chacun témoigne beaucoup de ſatis<g ref="char:EOLhyphen"/>faction de ce changement, trouvant dans l'uſage de la nouvelle Verſion de ces Pſaumes beaucoup d'édificati<g ref="char:EOLhyphen"/>on, &amp; ceux d'entre les Originaires de ce Païs qui n'entendent pas parfaite<g ref="char:EOLhyphen"/>ment nôtre Langue, &amp; qui frequen<g ref="char:EOLhyphen"/>tent nos Saintes Aſſemblées, en font paroître de la joye, parce que cette Verſion eſt beaucoup plus intelligible pour eux que la precedente, où ils trouvoient bien de l'obſcurité. Nous eſperons, Meſſieurs &amp; tres honorez Fréres, que vous ne ſerez pas fâchez d'apprendre que nous n'avons trouvé aucun obſtacle à ce ſage changement, qui a eu parmi nous tout le ſuccez que nous oſions eſperer. Nous ne pouvons que vous remercier d'y a<g ref="char:EOLhyphen"/>voir donné lieu par la Lettre que vous nous fîtes l'honneur de nous é<g ref="char:EOLhyphen"/>crire, il y a quelque tems, ſur ſe ſujet. Nous beniſſons Dieu de vous avoir mis au coeur de travailler ainſi à la plus grande édification de ſon Egliſe,
+<pb n="85" facs="tcp:152862:50"/> &amp; nous le prions que répandant tou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> les jours davantage ſes plus ſaintes be<g ref="char:EOLhyphen"/>nedictions ſur vos Perſonnes &amp; ſur vos travaux, vôtre Egliſe continue à tenir toûjours un des premiers rangs dans la Reformation; comme elle a fait juſques à preſent. Nous vous demandons pour l'avenir d'entrete<g ref="char:EOLhyphen"/>nir toûjours une ſainte correſpondance avec la nôtre, &amp; de croire que nous ſommes en particulier avec eſtime &amp; avec reſpect</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres-honorez Fréres,</salute>
+                           <signed>Vos tres-humbles &amp; tres-obeïſ<g ref="char:EOLhyphen"/>ſans Serviteurs &amp; Fréres au Seigneur, les Paſteurs &amp; les Anciens de l'Egliſe Fran<g ref="char:EOLhyphen"/>çoiſe de Baſle, <hi>&amp; pour tous avec charge</hi>
+                              <list>
+                                 <item>B. Franconis <hi>Paſteur, &amp; Moderateur.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                           <dateline>A Baſle <date>ce 30 Octobre Stil Vieux 1700.</date>
+                           </dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="86" facs="tcp:152862:51"/>
+                  <floatingText type="letter" xml:lang="fre">
+                     <body>
+                        <head>Lettre de l'Egliſe Françoiſe de Copenhague.</head>
+                        <opener>
+                           <salute>Meſſieurs &amp; tres-honorés Fréres,</salute>
+                        </opener>
+                        <p>NOUS avons ſenti d'une ma<g ref="char:EOLhyphen"/>niere tres-vive l'honneur qu'il vous a plû de nous faire, ayans bien voulu nous apprendre les raiſons qui vous ont portés à introduire dans vos Egliſes l'uſage des Pſaumes de Monſieur Conrart. Quand même nous ne ſaurions pas quelles ſont ces raiſons, nous ne laiſſerions pas de preſumer qu'elles doivent être bonnes &amp; ſolides, puis qu'elles ont paru telles à une Com<g ref="char:EOLhyphen"/>pagnie auſſi ſage, &amp; auſſi écla<g ref="char:EOLhyphen"/>irée que la vôtre. Et quand d'un autre côté nous aurions eu quel<g ref="char:EOLhyphen"/>que doute ſur ce ſujet, nous n'au<g ref="char:EOLhyphen"/>rions eu garde de trouver mau<g ref="char:EOLhyphen"/>vais
+<pb n="87" facs="tcp:152862:51"/> que vous euſſiez uſé d'un droit qui vous appartient legi<g ref="char:EOLhyphen"/>timement, &amp; qui ne vous peut être conteſté, tel qu'eſt ſans dif<g ref="char:EOLhyphen"/>ficulté celui de faire pour l'édifi<g ref="char:EOLhyphen"/>cation de vos troupeaux les Reg<g ref="char:EOLhyphen"/>lemens qui vous paroitront les plus neceſſaires, ſur tout ne les faiſant que du conſentement &amp; approbarion de Meſſieurs vos Ma<g ref="char:EOLhyphen"/>giſtrats. Ainſi, Meſſieurs, nous a<g ref="char:EOLhyphen"/>vons reçû vôtre Lettre comme u<g ref="char:EOLhyphen"/>ne marque de vôtre bonté pour nous, dont nous ne pouvons que vous être tres-redevables. Nous loüons Dieu du fond du coeur du ſuccés qu'il a donné à ce que vous a<g ref="char:EOLhyphen"/>vez trouvé à propos de faire, &amp; nous le ſupplions qu'il lui plaiſe de répandre de plus en plus ſa be<g ref="char:EOLhyphen"/>nediction ſur vôtre travail, &amp; ſur les troupeaux dont il lui a plû de vous confier la conduite, y conſer<g ref="char:EOLhyphen"/>vant toûjours ſon amour, &amp; le pré<g ref="char:EOLhyphen"/>cieux
+<pb n="88" facs="tcp:152862:52"/> de poſt de ſa verité. Ce ſont là les voeux paſſionnés de ceux qui ſeront toûjours</p>
+                        <closer>
+                           <salute>Meſſieurs &amp; tres honorés Fréres,</salute>
+                           <dateline>A Copenhague <date>le 5. de No<g ref="char:EOLhyphen"/>vembre 1700.</date>
+                           </dateline>
+                           <signed>Vos tres-humbles &amp; tres-obeïſſans Serviteurs, les Paſteurs &amp; Anciens de l'Egliſe Françoiſe de Co<g ref="char:EOLhyphen"/>penhague, <hi>&amp; pour tous</hi>
+                              <list>
+                                 <item>La Placette, <hi>Paſteur.</hi>
+                                 </item>
+                                 <item>Rambouïllet de la Sabliere, <hi>Ancien.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </body>
+            </floatingText>
+            <pb n="89" facs="tcp:152862:52"/>
+            <p>LA Compagnie eut la ſatisfacti<g ref="char:EOLhyphen"/>on de voir par les Lettres dés Egliſes, que ſon deſſein, &amp; ſa con<g ref="char:EOLhyphen"/>duite ne leur avoit pas déplu. Elle laiſſa aux autres Egliſes le ſoin de penſer à ce qui leur convenoit, ſoit pour leur édification, ſoit pour l'honneur de la religion. Elle ſe contenta d'avoir fait ſon devoir en<g ref="char:EOLhyphen"/>vers ſes troupeaux, &amp; ſuivi les regles de la Prudence, &amp; de la Charité envers ſes freres.</p>
+            <p>Elle s'eſt auſſi affermie dans l'u<g ref="char:EOLhyphen"/>ſage des nouveaux Pſaumes, par l'experience du fruit qu'ils ont fait. Ils n'ont jamais cauſé aucun trouble. On les a toûjours chantez avec plaiſir &amp; avec dévotion, tant dans la ville, qu'a la campagne.</p>
+            <p>Les Eccleſiaſtiques Romains qui viennent dans les Temples, en parlent avec eſtime, au lieu qu'ils ſe railloient des vieux Pſaumes.</p>
+            <p>Les Paſteurs de Geneve, qui di<g ref="char:EOLhyphen"/>ſtinguent les penſées, &amp; les mots du
+<pb n="90" facs="tcp:152862:53"/> Saint Eſprit, qui doivent durer juſ<g ref="char:EOLhyphen"/>qu'a la fin du monde, d'avec les pa<g ref="char:EOLhyphen"/>roles humaines ſujettes au change<g ref="char:EOLhyphen"/>ment, ne font encore en cela, que ſe conformer à leurs Predeceſſeurs. Calvin, qui avoit compoſé des Pſau<g ref="char:EOLhyphen"/>mes, pour les faire chanter dans les Temples, prefera ceux de Marot, à cauſe de leur beauté. M. de Beze dans la Dedicace de ſes Pſaumes à l'Egliſe, déplore la mort de Marot, parce qu'elle étoit arrivée, avant qu'il eût achevé de traduire en vers les Pſaumes de David; &amp; il exhorte tous les Poëtes de ſon tems à faire mieux que lui, bien loin de croire qu'on ne deût jamais changer ſes vers, aprés avoir une fois ſervi a l'Egliſe.</p>
+            <p>Les Paſteurs de Geneve ont enco<g ref="char:EOLhyphen"/>re devant les yeux l'exemple des flo<g ref="char:EOLhyphen"/>riſſantes Egliſes d'Angleterre &amp; d'Ecoſſe, qui ont introduit des Pſau<g ref="char:EOLhyphen"/>mes nouveaux à cauſe du changement de la langue. Et l'on n'a pas appris qu'on les ait accuſées ni d'imprudence,
+<pb n="91" facs="tcp:152862:53"/> ni de legereté, ni d'avoir donné d<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſcandale, ou cauſé un Schiſme.</p>
+            <p>Ainſi les Paſteurs de Geneve con<g ref="char:EOLhyphen"/>tents du témoignage de leur conſci<g ref="char:EOLhyphen"/>ence, jouïront paiſiblement de cet é<g ref="char:EOLhyphen"/>tabliſſement; &amp; verront, ſans s'émou<g ref="char:EOLhyphen"/>voir, ce que d'autres voudront faire, ſachant que chacun rendra compte de ſa conduite à Dieu.</p>
+            <p>Que ſi aprés ces éclairciſſemens, il ſe trouve <hi>des gens qui ſe plaiſent à conteſter,</hi> Les mêmes Paſteurs decla<g ref="char:EOLhyphen"/>rent, <hi>que ce n'eſt pas leur coûtume,</hi> comme <hi>ce n'eſt pas celle des Egliſes de Dieu.</hi> I. Corinth. Ch. XI.v. 16.</p>
+         </div>
+         <div type="additions">
+            <pb n="92" facs="tcp:152862:54"/>
+            <div type="extract">
+               <head>Extrait des Actes du Synode de la Province de Poitou, aſ<g ref="char:EOLhyphen"/>ſemblé par le permiſſion de ſa Majeſté, en la Ville de Fon<g ref="char:EOLhyphen"/>tenay, le 20. <hi>Octobre</hi> 1677. &amp; jours Suivans.</head>
+               <p>AYant veu les ſentimens de plu<g ref="char:EOLhyphen"/>ſieurs Synodes de ce Royaume qui ont approuvé le pieux deſſein de feu Mr. Conrart, qui avoit entrepris de revoir, &amp; d'épurer la Verſion de nos Pſaumes, &amp; ay<g ref="char:EOLhyphen"/>ant eu lecture de l'acte du der<g ref="char:EOLhyphen"/>nier Synode de l'Iſle de France, qui exhorte Mr. de Labaſtide à acheve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ce Saint Ouvrage, Nous nous <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ignons tres volontiers à ces mêmes ſentimens, jugeant que la perfection de cet ouvrage ſeroit fort à ſouhaiter, &amp; pourroit pro<g ref="char:EOLhyphen"/>duire
+<pb n="93" facs="tcp:152862:54"/> beaucoup de fruit. Ce qui doit encourager ceux qui s'y em<g ref="char:EOLhyphen"/>ployent a y travailler de tout leur pouvoir, &amp; nous à prier Dieu qu'il veuille benir leur tra<g ref="char:EOLhyphen"/>vail.</p>
+            </div>
+            <div type="extract">
+               <head>Extrait des Actes du Synode Provincial de l'Iſle de France, Picardie, Champagne, &amp; Païs Chartrain, aſſemblé à Cha<g ref="char:EOLhyphen"/>renton, le 27. d'<hi>Avril</hi> 1679.</head>
+               <p>LA Compagnie ayant ci de<g ref="char:EOLhyphen"/>vant exhorté feu Mr. Con<g ref="char:EOLhyphen"/>rart, Conſeiller &amp; Secretaire du Roy à travailler à la reviſion de l'ancienne Verſion des Pſaumes en vers, pour l'accommoder aux chan<g ref="char:EOLhyphen"/>gemens que le tems &amp; l'uſage ont
+<pb n="94" facs="tcp:152862:55"/> apportez à la langue, &amp; depuis, ayant auſſr exhorté Mr. de Laba<g ref="char:EOLhyphen"/>ſtide, que Mr. Conrart avoit char<g ref="char:EOLhyphen"/>ge de cet Ouvrage, à l'achever le plûtôt qu'il ſe pourroit: Elle a eu avec joye, que cela a été fait heureuſement, &amp; reconnu, tant par le témoignage des Miniſtres de Paris, nommez pour l'exa<g ref="char:EOLhyphen"/>men des livres de cette province, qui l'ont examiné avec ſoin, que par celui de pluſieurs autres de cet<g ref="char:EOLhyphen"/>te aſſemblée, qui l'ont auſſi lû avec plaiſir, qu'il y a par tout, une trés grande exactitude, &amp; fidelité pour le fens, &amp; beaucoup des clarté, de pureté &amp; de ſimplicité dans les ex<g ref="char:EOLhyphen"/>preſſions, &amp; là jugé tres propre pour ſervir à l'édfiication publique; Et en outre, elle a arreté que ledit S. Sera remercié de ſon travail, &amp; exhorté à continuer d'employer ſes beaux talens à la gloire de Dieu &amp; à l'dification de l'Egliſe: ayant
+<pb n="95" facs="tcp:152862:55"/> nomme pour c'eſt effet, les Srs. fe<g ref="char:EOLhyphen"/>tiſon Miniſtre, &amp; de villeroi ancien, ſigné de Langle Moderateur, Var<g ref="char:EOLhyphen"/>nier, Moderateur ajoint, Mettayer Secretaire, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <trailer>FIN.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
